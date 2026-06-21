@@ -1,0 +1,29 @@
+{
+  "noticias": [
+    {
+      "titulo": "⚔️ Guerra de Facções",
+      "data": "Toda Segunda e Quinta",
+      "resumo": "Horários: 10:00 e 19:00"
+    },
+    {
+      "titulo": "🏰 Grande Guerra",
+      "data": "Toda Sexta e Domingo",
+      "resumo": "Horários: 12:30 e 21:00"
+    },
+    {
+      "titulo": "🐉 Evento Ilha Central",
+      "data": "Todo Sábado",
+      "resumo": "Horários: 10:30, 15:30 e 20:30"
+    },
+    {
+      "titulo": "Manutenção programada",
+      "data": "18/06/2026",
+      "resumo": "Servidor ficará fora do ar das 04h às 06h para atualização."
+    },
+    {
+      "titulo": "Bem-vindo ao Hero Millenium!",
+      "data": "15/06/2026",
+      "resumo": "Confira as regras do servidor antes de começar a jogar."
+    }
+  ]
+}
