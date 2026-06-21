@@ -1,22 +1,22 @@
 {
   "files": [
     {
-      "path": "tb_cashshop.tbl",
+      "path": "data/tb_cashshop.tbl",
       "hash": "b5765f21bff6ed31556bdf9be386e75aed0d76cc1e70923deee0bd24741a5e74",
       "size": 31816
     },
     {
-      "path": "tb_dropitem.tbl",
+      "path": "data/tb_dropitem.tbl",
       "hash": "eccf67eb343692aa845f9271db371adfb266f2d7f28251006ca955317f3a6c49",
       "size": 435760
     },
     {
-      "path": "tb_ItemTable_Normal.tbl",
+      "path": "data/tb_ItemTable_Normal.tbl",
       "hash": "8be54e67caf174a04762154bd63c71e184c87534bc129a1268640c874cc13283",
       "size": 11491254
     },
     {
-      "path": "tb_production.tbl",
+      "path": "data/tb_production.tbl",
       "hash": "8654274cebb23722d58ea347553b752a93489a552e3048325ed9ab0f0041821b",
       "size": 620
     }
