@@ -109,6 +109,16 @@
       "path": "data/tb_ZoneTable.tbl",
       "hash": "ae8df497d47ae56050c61935b9d8e00985e3c159552bbbc515d10ad4804b92b8",
       "size": 79334
+    },
+    {
+      "path": "ui/loginbg.DXT",
+      "hash": "d91b32a404945eab548ed41d1c53c8f897b0a6ef27be152d2597a4bde2f0878e",
+      "size": 6422552
+    },
+    {
+      "path": "ui/DXT/loginbg.DXT",
+      "hash": "d91b32a404945eab548ed41d1c53c8f897b0a6ef27be152d2597a4bde2f0878e",
+      "size": 6422552
     }
   ]
 }
