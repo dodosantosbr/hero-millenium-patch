@@ -11,6 +11,11 @@
       "size": 435760
     },
     {
+      "path": "data/tb_ExpTable.tbl",
+      "hash": "adaa691133e824c4900ea5f2b4a1f320993ef2d4abd43daa814c4bf5e9ee60b7",
+      "size": 6636
+    },
+    {
       "path": "data/tb_gamblingitem.tbl",
       "hash": "e57fdaf71c4c1a39147917f9cf1a40214a5832619e9a019b6162f21e34b23fea",
       "size": 181016
