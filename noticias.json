@@ -1,9 +1,9 @@
 {
   "noticias": [
     {
-      "titulo": "Abertura Oficial do Servidor",
+      "titulo": "Manutenção não programada",
       "data": "28/06/2026",
-      "resumo": "Servidor ficará disponivel para jogadores a partir de 28/06/2026 ás 09:00."
+      "resumo": "Servidor ficará fora do ar até corrigir o bug de exp duplicada."
     },
     {
       "titulo": "⚔️ Guerra de Facções",
