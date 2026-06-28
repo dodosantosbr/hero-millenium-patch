@@ -51,6 +51,11 @@
       "size": 3536
     },
     {
+      "path": "data/tb_ShinkungTable.tbl",
+      "hash": "f571b1cc3470ba3147b8820d8428cad2e8bcfa24b0b7ad6c011d278fd2ce3d56",
+      "size": 8958
+    },
+    {
       "path": "data/tb_ShopTable.tbl",
       "hash": "f93310e1bafe52c52e05312318c26cceba108ae9ebdfc5ef4d5dcf5b95637bfa",
       "size": 8496
