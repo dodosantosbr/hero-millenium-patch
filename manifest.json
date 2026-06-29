@@ -2,12 +2,12 @@
   "files": [
     {
       "path": "data/tb_cashshop.tbl",
-      "hash": "b5765f21bff6ed31556bdf9be386e75aed0d76cc1e70923deee0bd24741a5e74",
+      "hash": "0bdf81b34da3c6fb3533a6be50417dda731b70aac1f9f32c460f7783b4bcfdcc",
       "size": 31816
     },
     {
       "path": "data/tb_dropitem.tbl",
-      "hash": "eccf67eb343692aa845f9271db371adfb266f2d7f28251006ca955317f3a6c49",
+      "hash": "57cc9991af5328788f4c36cb44419d91f0e93f42b39cabc33d099d7ac965387e",
       "size": 435760
     },
     {
