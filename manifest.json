@@ -1,0 +1,439 @@
+{
+  "files": [
+    {
+      "path": "data/tb_BuffTooltip.tbl",
+      "hash": "0d69e3dd6a620f6b0e8141b35151800ca7497ea9edf17ca9edfe6caff463aaaa",
+      "size": 6336
+    },
+    {
+      "path": "data/tb_cashshop.tbl",
+      "hash": "d4e5d7ad8fde337bad7d7698a08d0b2569f83cbeb9e15705bad9c54d5cf9d213",
+      "size": 32299
+    },
+    {
+      "path": "data/tb_Chamhap.tbl",
+      "hash": "cc809ba0a2bae8d64b0914de89e8641eeb1de8d253226bf9830894bf3b101033",
+      "size": 8912
+    },
+    {
+      "path": "data/tb_Chamhap_PC.tbl",
+      "hash": "1740631d660060a0a32b8e18c3f756e1c809e2aa45b0cc2abd171b028259365d",
+      "size": 8912
+    },
+    {
+      "path": "data/tb_CharacterStatus.tbl",
+      "hash": "c256621d928c8200d1bff0688557fba7fb610a9b6ce13a88a4024634267a274b",
+      "size": 938
+    },
+    {
+      "path": "data/tb_CoinEvent.tbl",
+      "hash": "59aa352c9b7cd431190baae90d4c63f1a529b667d2a9c7ed5af9f5935c71d330",
+      "size": 30
+    },
+    {
+      "path": "data/tb_compose.tbl",
+      "hash": "c87ec8168f37440507a286b44c6324429ab8560fe3a1db03d340f39f034fdaad",
+      "size": 3100
+    },
+    {
+      "path": "data/tb_CookTable.tbl",
+      "hash": "87e46b87c40fcf4b51721b6e8c591ff02bece0598a6705df9c6f4f6f17369e92",
+      "size": 74247
+    },
+    {
+      "path": "data/tb_Cubedrop.tbl",
+      "hash": "e75bc89b6771999b5f967fab2e8b81b666350e0829a5eb02e8ed5aeaa7ab6e4c",
+      "size": 7069
+    },
+    {
+      "path": "data/tb_DescTable.tbl",
+      "hash": "60d1c038969ef9b5e667ffc3dae3a084b8d8297f7102bc49e332eb2cd889637e",
+      "size": 72
+    },
+    {
+      "path": "data/tb_dropitem.tbl",
+      "hash": "4e062ec4362b72c017539004633d33269d89bed7a28600e105e2ec71fd042461",
+      "size": 435760
+    },
+    {
+      "path": "data/tb_Dungeon.tbl",
+      "hash": "ea849d436ea08aaddeb6ac98e65c17d3a7c0df11e97b0175449354d26a1853e2",
+      "size": 252
+    },
+    {
+      "path": "data/tb_EMotion.tbl",
+      "hash": "62aee5f3ade7937e2d0180966c5fc555cb28ccfa43094305de7a4dd72e1f8ec3",
+      "size": 2404
+    },
+    {
+      "path": "data/tb_eventpost.tbl",
+      "hash": "3b367cf47f4daa07128f4edad9a8e8b950c2ed266876b0cfe9bbea4db4002092",
+      "size": 892
+    },
+    {
+      "path": "data/tb_EventTable.tbl",
+      "hash": "ec3dcf6706689f0e207602f0047e1d0f317c73bca2c36178b6497255759d96e5",
+      "size": 605
+    },
+    {
+      "path": "data/tb_ExpTable.tbl",
+      "hash": "055bdfd9781411f5002b320f98a57cac72f2fc6c3b7eaebf3ef54c5cf712d6e0",
+      "size": 6636
+    },
+    {
+      "path": "data/tb_FaceTable.tbl",
+      "hash": "f7f85e6486a128ef4fcf0052243a8cf9edd3c7a98ecb5fc3b32014c4deecebb0",
+      "size": 1506
+    },
+    {
+      "path": "data/tb_fe_general.tbl",
+      "hash": "7848edb847cf3c9f2c23bcd49737e9a966beb5144ddc8859b987e529b006f7e0",
+      "size": 17544
+    },
+    {
+      "path": "data/tb_fe_rating.tbl",
+      "hash": "3c03f4937241a6615362f25681e792f039da0d64f69518145c11a9f632891f94",
+      "size": 604
+    },
+    {
+      "path": "data/tb_fe_seong.tbl",
+      "hash": "9278996d3e5e65e5e0492fc6b817f3e2202ecb6cd39e7744675ffbe619a1eaa1",
+      "size": 16844
+    },
+    {
+      "path": "data/tb_Forging.tbl",
+      "hash": "35cfa4cdb5034745e0b2a4c4103fa2b4e5733f1ff141b004424babd3dff373f0",
+      "size": 1088
+    },
+    {
+      "path": "data/tb_friendship.tbl",
+      "hash": "bf31398de92f72fd33417a4a76df1d849c4d6b98c97ffcd4bfb5e630adf5ae78",
+      "size": 144
+    },
+    {
+      "path": "data/tb_FxLink.tbl",
+      "hash": "19edd2ffeca9aec81e86e470c209324ae8e75aa06cc4c4c4ddcaba479b0e76f9",
+      "size": 216
+    },
+    {
+      "path": "data/tb_FX_Table.tbl",
+      "hash": "20ceb063aa906410fe37935e6c1e31ec26d0f00ef1b4d9096eddc3aee2fb2f2c",
+      "size": 15216
+    },
+    {
+      "path": "data/tb_gamblerate.tbl",
+      "hash": "08dbcebc73b1cc327e9959fdb8dcf0d1d4ecb341b79597464392ff789991b658",
+      "size": 304
+    },
+    {
+      "path": "data/tb_gamblingitem.tbl",
+      "hash": "e57fdaf71c4c1a39147917f9cf1a40214a5832619e9a019b6162f21e34b23fea",
+      "size": 181016
+    },
+    {
+      "path": "data/tb_HeadTable.tbl",
+      "hash": "bd5e632ecd0a547dd6d92a5086851c6b026f4338cf972565555ccb35e2a9503d",
+      "size": 3846
+    },
+    {
+      "path": "data/tb_HeroPrice.tbl",
+      "hash": "e2a7eea0560f2ef739e0cacd1ab576495c12a1ccea7060fdc1fc09c07560dda8",
+      "size": 64
+    },
+    {
+      "path": "data/tb_HeroWarTable.tbl",
+      "hash": "2754209f7b3195fc4f90e0c02183b2a6195814ea898c72764407ee44a3a58398",
+      "size": 436
+    },
+    {
+      "path": "data/tb_House_NPCTable.tbl",
+      "hash": "39260b219619dafd4c64e53bd9c15f762b4b835f996af44a4aac27b2cc57167b",
+      "size": 356740
+    },
+    {
+      "path": "data/tb_House_ZoneTable.tbl",
+      "hash": "5bf2cee4feaffa4c4176393ba60e3c15fab754ada90cdf52464b739d832e012a",
+      "size": 288
+    },
+    {
+      "path": "data/tb_ItemDrop_LogCheck.tbl",
+      "hash": "f9082e016edf1c0206f7a2d6a9392884fdd1281936c50449190c8c0fb3ee0d77",
+      "size": 424
+    },
+    {
+      "path": "data/tb_ItemExtraction.tbl",
+      "hash": "1f58acc709a47c1aafbffa4599a05a57b4abffab8a7ac4b14e887c79a72c6716",
+      "size": 2042
+    },
+    {
+      "path": "data/tb_ItemJudgement.tbl",
+      "hash": "dfb1f67bb7c5f0227c773ac73742b415538fd128d7afbafe55e97c99358b9f90",
+      "size": 498339
+    },
+    {
+      "path": "data/tb_ItemMaking.tbl",
+      "hash": "26821dcdd82fabb4fed389100e0565738c622d2c85421adab925b9cff728224f",
+      "size": 45972
+    },
+    {
+      "path": "data/tb_ItemMakingEx.tbl",
+      "hash": "d9dc7ab9921e9054c5f3ee9e0e6e04a90fe3cdf95b390f737536bad4751f47cb",
+      "size": 6608
+    },
+    {
+      "path": "data/tb_ItemMakingInv.tbl",
+      "hash": "6af5f5dc3d53340d10ef7bc1c2814efe73cd346d8f4bc4f69f3c75120d0387e0",
+      "size": 47502
+    },
+    {
+      "path": "data/tb_ItemMakingPI.tbl",
+      "hash": "5155ab076e07818e1f9b81a28c7f119617213f770f759ced3f4f718d01d38955",
+      "size": 104456
+    },
+    {
+      "path": "data/tb_ItemMelting.tbl",
+      "hash": "23454f581ebfd02dfe6c7370c47bfabf0b31db2869962cd8d8e0a03f3a4f49b5",
+      "size": 41120
+    },
+    {
+      "path": "data/tb_ItemSet.tbl",
+      "hash": "6ba6a4b07f02e2b7cb95bbccf85a2afcad42627d4f63ff0d1505add4c433b4d2",
+      "size": 40262
+    },
+    {
+      "path": "data/tb_ItemTable_appearance.tbl",
+      "hash": "9ab234c26cc0d2524340e49ab03ea996d9adf227f48501a3b1e29be1eeefd4b8",
+      "size": 2308518
+    },
+    {
+      "path": "data/tb_ItemTable_Normal.tbl",
+      "hash": "6b7ee8067ab330eff0d5e32673d8875f88afafc51883b6afa18596183c866493",
+      "size": 11491254
+    },
+    {
+      "path": "data/tb_ItemTable_NPC.tbl",
+      "hash": "98842da64661de116e4bf41ca12e6c5fd4226a109b28a2cab501d5f49dfea849",
+      "size": 13678
+    },
+    {
+      "path": "data/tb_linknpctable.tbl",
+      "hash": "2924fe5d6961720450217dd503b618baca8fa72e1909949e6b5ba44a13e385e8",
+      "size": 1044
+    },
+    {
+      "path": "data/tb_MatchDrop.tbl",
+      "hash": "34d6beda7893bda2fd326087fc4cd3f4fd800c9b333375cd0c6812e1aa2201eb",
+      "size": 254
+    },
+    {
+      "path": "data/tb_Message.tbl",
+      "hash": "b622a810a3d789fd4665d90f0e6159d0fe3bdf63c133779ae0c37f34a52bec6a",
+      "size": 101222
+    },
+    {
+      "path": "data/tb_Migoong.tbl",
+      "hash": "888e8c37233aeca9e4c445a418748e112a1255830bbd60b6502dd55c5437ce02",
+      "size": 456
+    },
+    {
+      "path": "data/tb_Mining.tbl",
+      "hash": "2b5c351189642311cc4562dc9648517120f80908aba253f0f6f033876128e0e3",
+      "size": 475
+    },
+    {
+      "path": "data/tb_MunpaDataNum.tbl",
+      "hash": "c0c53e19e643a146a45f4a4acb7b59780ca94017506a10024106f6f1b874c13c",
+      "size": 4
+    },
+    {
+      "path": "data/tb_NewMunpaData.tbl",
+      "hash": "d36cea68f9ef1ffa0f472fdf68d4aeede80f90e1f69244614ce83ccc491ad2f1",
+      "size": 353064
+    },
+    {
+      "path": "data/tb_notice.tbl",
+      "hash": "a9aa2986f771d349078cc80e7449bc8e8d3e35945c400c295c7a87d3f38cded8",
+      "size": 2438
+    },
+    {
+      "path": "data/tb_NPCPositionTable.tbl",
+      "hash": "0a60727647aa9a17d1dfe987aef8dfd8f7cd1007c6a5f3c00717a73cbd6f456e",
+      "size": 304073
+    },
+    {
+      "path": "data/tb_NPCTable.tbl",
+      "hash": "33e80be5febb5fd31cf3a66fa5c29e5de9c43d2b7071a326214dc51d5a55dad4",
+      "size": 1550046
+    },
+    {
+      "path": "data/tb_NPC_Menu.tbl",
+      "hash": "8a496f9b582b8f33251983426fc172ede68659cc1d032f548e282e913e0ad84f",
+      "size": 75981
+    },
+    {
+      "path": "data/tb_NPC_Script.tbl",
+      "hash": "c921df73b8620366c3c5313a7700d18c385038bff609a84d591d40c88df12817",
+      "size": 445865
+    },
+    {
+      "path": "data/tb_PetEXPTable.tbl",
+      "hash": "e2b52d1e9c96c9b8fb2e242ca14859a0658470c971276c67109a9627067cc677",
+      "size": 10048
+    },
+    {
+      "path": "data/tb_PetTable.tbl",
+      "hash": "082c9073570b4b7ba97c56eb3256843b778a00b5573abb20a5a2d6487f32d672",
+      "size": 164209
+    },
+    {
+      "path": "data/tb_Player_Table.tbl",
+      "hash": "90ddbeba1d3cc1f8a0152902851862cb7a204ffc4bb0ef4d303bc07fd51940ea",
+      "size": 28077
+    },
+    {
+      "path": "data/tb_PremiumAbility.tbl",
+      "hash": "1ddd327c6df50451a0e769d43c65b36175c86736a9b6886d62b2155db5a4d31d",
+      "size": 530
+    },
+    {
+      "path": "data/tb_ProbabilityTable.tbl",
+      "hash": "095a4a873e6e8abd733a7d77a5cb5419296b77d02cfaf445c593df47f0a80f11",
+      "size": 304
+    },
+    {
+      "path": "data/tb_production.tbl",
+      "hash": "8654274cebb23722d58ea347553b752a93489a552e3048325ed9ab0f0041821b",
+      "size": 620
+    },
+    {
+      "path": "data/tb_pupil_point.tbl",
+      "hash": "7dc6e1c689cf8c3279eea264752fa4635945a8375f4ef4305a4c370eb9538d7e",
+      "size": 326
+    },
+    {
+      "path": "data/tb_RareProbabilityTable.tbl",
+      "hash": "5983aa5d54c96b1e03fe4839a43acb7a041e6136860128785703169be60d2a8e",
+      "size": 324
+    },
+    {
+      "path": "data/tb_Refining.tbl",
+      "hash": "9bd9e09370629e23b5e12871d27d6a3028d288ea5b6faaca87c24e99d1d0a053",
+      "size": 840
+    },
+    {
+      "path": "data/tb_SavePoint.tbl",
+      "hash": "6c08f448d009155a3003d570c537415b406974ceff7f483a2d150bd5926aa11a",
+      "size": 3536
+    },
+    {
+      "path": "data/tb_ScenarioList.tbl",
+      "hash": "49eba2b93368a9b1964fc9e51939bb2ec6718a3c1e953be54a896aea54f57cbd",
+      "size": 7582
+    },
+    {
+      "path": "data/tb_Server_Message.tbl",
+      "hash": "f7e0d3be3e2110e4ac02a587d068597ef33de96cd05c8968965c6f7685fd86f7",
+      "size": 6084
+    },
+    {
+      "path": "data/tb_ShinkungTable.tbl",
+      "hash": "f571b1cc3470ba3147b8820d8428cad2e8bcfa24b0b7ad6c011d278fd2ce3d56",
+      "size": 8958
+    },
+    {
+      "path": "data/tb_ShopTable.tbl",
+      "hash": "f93310e1bafe52c52e05312318c26cceba108ae9ebdfc5ef4d5dcf5b95637bfa",
+      "size": 8496
+    },
+    {
+      "path": "data/tb_ShopTable_Item.tbl",
+      "hash": "9b32cdccb8817f85e58f936a53abba2860146e3fd23dd69c14cd27b827a0dc30",
+      "size": 2741
+    },
+    {
+      "path": "data/tb_Shop_Table_Pet.tbl",
+      "hash": "90fbaa8f83a7588772bde8a9bd64904805b82d039676ebb19fe163e498caca9f",
+      "size": 88
+    },
+    {
+      "path": "data/tb_SkillTable.tbl",
+      "hash": "57662deafe7dea34179a3290481f6b1f15336cb02d5fcd18be93f0612b6d65e8",
+      "size": 791978
+    },
+    {
+      "path": "data/tb_Sound_Table.tbl",
+      "hash": "cc8aeffe913e835614bc6ee2ec614b3daddb8e94d939f71bbed6e0677354f82c",
+      "size": 38973
+    },
+    {
+      "path": "data/tb_Starteritem.tbl",
+      "hash": "76418943ea9afcaa3003cfdb68dac5892e72bf03315e5ae26fcf59f928ca1328",
+      "size": 800
+    },
+    {
+      "path": "data/tb_StringTable.tbl",
+      "hash": "6cc9f6fdc440cd5f30bb96ff35826c2b3669e7a5f55690fc9a10c0e1e47750f0",
+      "size": 36661
+    },
+    {
+      "path": "data/tb_Systempostable.tbl",
+      "hash": "ec222e2dda01eb8f74fe0c8bded1436be9ce7c8145ba40959edaf4d9f42dd9d2",
+      "size": 72
+    },
+    {
+      "path": "data/tb_Tip_Message.tbl",
+      "hash": "4799a9db3b29d38cd8d6f17fb74b11c3691e69fc8a7c35a3502153e4e0126837",
+      "size": 12557
+    },
+    {
+      "path": "data/tb_Tutorial.tbl",
+      "hash": "02df494e0464ff28b6baee67a959c4f2fb96ee2a2c8f076f7786b4cba2791e10",
+      "size": 5360
+    },
+    {
+      "path": "data/tb_UIString.tbl",
+      "hash": "05c043587d7ec7033469c3c1c80022130a842eac95575bc54a53bc6ae4899d6d",
+      "size": 162349
+    },
+    {
+      "path": "data/tb_UkungExpPlus.tbl",
+      "hash": "666133a6c9fc1e47bad8e4a10cdd84f18edb8149fc0a5202da1b8381ef5730f8",
+      "size": 840
+    },
+    {
+      "path": "data/tb_UkungExpTable.tbl",
+      "hash": "07ce03e2bd29fa5a78994ed0f0bffc0a6bd5a4e508f92fe24385d1d537549b47",
+      "size": 5312
+    },
+    {
+      "path": "data/tb_UkungTable.tbl",
+      "hash": "482082688fa18303ba259bf34ae4bcbd137dfbde1319749b1989212e040d8ef4",
+      "size": 36596
+    },
+    {
+      "path": "data/tb_UpgradeTex_Table.tbl",
+      "hash": "ae3e5560e296f72081324646acad1707b0205fff11e5cc8e4962fcd7c8d8099e",
+      "size": 1340
+    },
+    {
+      "path": "data/tb_ZoneChanGeTable.tbl",
+      "hash": "b6de32468de272c3643b9ecd0734668fc6e6baf7386d1dd7847faaf3b818dff4",
+      "size": 7265
+    },
+    {
+      "path": "data/tb_ZoneTable.tbl",
+      "hash": "ae8df497d47ae56050c61935b9d8e00985e3c159552bbbc515d10ad4804b92b8",
+      "size": 79334
+    },
+    {
+      "path": "ui/loginbg.DXT",
+      "hash": "d91b32a404945eab548ed41d1c53c8f897b0a6ef27be152d2597a4bde2f0878e",
+      "size": 6422552
+    },
+    {
+      "path": "ui/DXT/loginbg.DXT",
+      "hash": "d91b32a404945eab548ed41d1c53c8f897b0a6ef27be152d2597a4bde2f0878e",
+      "size": 6422552
+    }
+  ]
+}
