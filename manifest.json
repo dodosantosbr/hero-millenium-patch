@@ -6,6 +6,11 @@
       "size": 31522
     },
     {
+      "path": "data/tb_dropitem.tbl",
+      "hash": "bc92f77b6e6ee7e39f55a9b69acb165696aede8c282f00606ffc020756a8bd18",
+      "size": 435760
+    },
+    {
       "path": "data/tb_ItemTable_Normal.tbl",
       "hash": "4a7d7600edb1af3a08b9934c47927356ef38a1ed8b0b65f9211da7fdea9054b7",
       "size": 11491230
