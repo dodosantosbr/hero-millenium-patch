@@ -257,13 +257,8 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "4a7d7600edb1af3a08b9934c47927356ef38a1ed8b0b65f9211da7fdea9054b7",
+      "hash": "34dc13772f82a426a7d4ae68532f4b88526c6169c2273d4ea6758bea1280002e",
       "size": 11491230
-    },
-    {
-      "path": "data/tb_ItemTable_Normal_1.tbl",
-      "hash": "8dd513ce9c9a170db60aa56881700f283198499293c4caed6b66d9b3bd07c32e",
-      "size": 11491254
     },
     {
       "path": "data/tb_ItemTable_NPC.tbl",
@@ -382,18 +377,8 @@
     },
     {
       "path": "data/tb_production.tbl",
-      "hash": "19346f1570537a4df28b4a1570da01db83cccf17c7c2c5b0b520f8227a7bd93f",
-      "size": 3390
-    },
-    {
-      "path": "data/tb_production_1.tbl",
-      "hash": "1922f17b6c84891529826662aa055fe319793651b00949cd06a27c41ca33c56c",
-      "size": 3390
-    },
-    {
-      "path": "data/tb_production_bckp.tbl",
-      "hash": "ef581cfaae1db62cb3ded9b73ac8029dea955ff33b75f4005044ae784cc7c3e9",
-      "size": 3390
+      "hash": "7db7721ceee26e1cf3c5a36a52137f917fde731ad4047f316081b390950775cb",
+      "size": 5204
     },
     {
       "path": "data/tb_pupil_point.tbl",
