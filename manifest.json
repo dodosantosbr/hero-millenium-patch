@@ -47,13 +47,8 @@
     },
     {
       "path": "data/tb_cashshop.tbl",
-      "hash": "8413b2821dab094e040f94eb6df401cfe63c39944dfb33a4e8cd98bf17ac0834",
-      "size": 31522
-    },
-    {
-      "path": "data/tb_cashshop_bckp.tbl",
-      "hash": "e179a4eb3a2475d16538474f1d29c3b6f9bfd72093ad6457938d78660cf88801",
-      "size": 31816
+      "hash": "c4e9026427f2906fc9bd6979ea3a226649eee0539a78895946969bfb9c31cd34",
+      "size": 31397
     },
     {
       "path": "data/tb_Chamhap.tbl",
@@ -97,12 +92,7 @@
     },
     {
       "path": "data/tb_dropitem.tbl",
-      "hash": "bc92f77b6e6ee7e39f55a9b69acb165696aede8c282f00606ffc020756a8bd18",
-      "size": 435760
-    },
-    {
-      "path": "data/tb_dropitem_bckp.tbl",
-      "hash": "8fb067278addb4aba6107c86c4c7724247487432f0dd5b109fbf440ba9c9bd05",
+      "hash": "70bdf92252df9a2a8248060e36ede90fddeab274f29cc55b2e08aefc611648ef",
       "size": 435760
     },
     {
@@ -222,7 +212,7 @@
     },
     {
       "path": "data/tb_ItemMaking.tbl",
-      "hash": "26821dcdd82fabb4fed389100e0565738c622d2c85421adab925b9cff728224f",
+      "hash": "099b60803005b1e96ac9b544dd6e025cabcbfae459256306abd3dc5635834304",
       "size": 45972
     },
     {
@@ -237,8 +227,8 @@
     },
     {
       "path": "data/tb_ItemMakingPI.tbl",
-      "hash": "5155ab076e07818e1f9b81a28c7f119617213f770f759ced3f4f718d01d38955",
-      "size": 104456
+      "hash": "86fa78a87c36ce8bcf18abc20766318c2aac8d824fc88f46d6f93ab78c282dbb",
+      "size": 99344
     },
     {
       "path": "data/tb_ItemMelting.tbl",
@@ -377,13 +367,8 @@
     },
     {
       "path": "data/tb_production.tbl",
-      "hash": "c729115a262904e8e2bdeb2dd53ea3ad20b9bd32b494a757a7be816bb9b39dd4",
-      "size": 5197
-    },
-    {
-      "path": "data/tb_production_bckp.tbl",
-      "hash": "19346f1570537a4df28b4a1570da01db83cccf17c7c2c5b0b520f8227a7bd93f",
-      "size": 3390
+      "hash": "f91aa79e0f9dd1841bcfa8875af08af85dff687dbcc07aee95b23c806b8ca452",
+      "size": 6410
     },
     {
       "path": "data/tb_pupil_point.tbl",
