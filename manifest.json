@@ -47,8 +47,8 @@
     },
     {
       "path": "data/tb_cashshop.tbl",
-      "hash": "c4e9026427f2906fc9bd6979ea3a226649eee0539a78895946969bfb9c31cd34",
-      "size": 31397
+      "hash": "93ed62c7563e38c2dfaa842ce4a3486122a37fef0270958330a21a81d08a6870",
+      "size": 31387
     },
     {
       "path": "data/tb_Chamhap.tbl",
@@ -92,7 +92,7 @@
     },
     {
       "path": "data/tb_dropitem.tbl",
-      "hash": "70bdf92252df9a2a8248060e36ede90fddeab274f29cc55b2e08aefc611648ef",
+      "hash": "5b9171e908cfc636850d9ef92bf242391f9a8b8745ea2e559bb4ed8778d29404",
       "size": 435760
     },
     {
@@ -227,8 +227,8 @@
     },
     {
       "path": "data/tb_ItemMakingPI.tbl",
-      "hash": "86fa78a87c36ce8bcf18abc20766318c2aac8d824fc88f46d6f93ab78c282dbb",
-      "size": 99344
+      "hash": "d944f5fa7f4db4e971401e19e5cdeb78c29c0535a6898bbbd7d82e606f1e393b",
+      "size": 101504
     },
     {
       "path": "data/tb_ItemMelting.tbl",
@@ -247,8 +247,8 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "34dc13772f82a426a7d4ae68532f4b88526c6169c2273d4ea6758bea1280002e",
-      "size": 11491230
+      "hash": "4cf7893a38547a62a4d008135f46a25f02f0cab490def8ada411462e8cd87ae2",
+      "size": 11491233
     },
     {
       "path": "data/tb_ItemTable_NPC.tbl",
