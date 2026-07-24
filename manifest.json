@@ -47,8 +47,8 @@
     },
     {
       "path": "data/tb_cashshop.tbl",
-      "hash": "a7ced72a70ec4603725502120872884faef863a0dcff370dd1b4562075f5ecf4",
-      "size": 29725
+      "hash": "e4b66835de6fe18731568cd1e4417fc0d0691bf32a9270e6f8d7c176118d66a2",
+      "size": 29667
     },
     {
       "path": "data/tb_Chamhap.tbl",
@@ -92,8 +92,8 @@
     },
     {
       "path": "data/tb_dropitem.tbl",
-      "hash": "99c43dced6b50d3d3c5087711c6f34a14e21d05c4f7b7bcf91e31ad8011a84dd",
-      "size": 435760
+      "hash": "24417031c6f838c92d85e933bda5c04e02a81dcc23f500fb108aec9c3ff250d4",
+      "size": 436272
     },
     {
       "path": "data/tb_Dungeon.tbl",
@@ -247,7 +247,7 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "23828271f3aa20258d310c435b847e788b0c17d567de41555e058b02089f0659",
+      "hash": "342de250249327af54592fdbf30ec237761ffd4d77df9f56283558c42ef04e9c",
       "size": 11491220
     },
     {
@@ -367,8 +367,8 @@
     },
     {
       "path": "data/tb_production.tbl",
-      "hash": "7e0c4cf58840dd62321ca5cd8a49bf630ace8c2041a46d33ddaf7ff8fc896b65",
-      "size": 12239
+      "hash": "9e6656c4eb5c65363e51ed619a1d754c1e8e7658706753e12ee49da9d27c53ea",
+      "size": 9041
     },
     {
       "path": "data/tb_pupil_point.tbl",
@@ -442,7 +442,7 @@
     },
     {
       "path": "data/tb_SkillTable.tbl",
-      "hash": "57662deafe7dea34179a3290481f6b1f15336cb02d5fcd18be93f0612b6d65e8",
+      "hash": "58314fffbdb89db7e3d877f0df35e750449216067a626caf0a98eaf620d3818d",
       "size": 791978
     },
     {
@@ -534,6 +534,11 @@
       "path": "ui/mugong_h.DXT",
       "hash": "fe7149d21375c67d084c3d86d7f7db81429dd2cab2e0669683a3a62fbb823174",
       "size": 1398104
+    },
+    {
+      "path": "ui/ServerSelect_BG.dxt",
+      "hash": "cd259fe10302a71ac4a77cb7a733f72db1f0a9d3079b0972f74f66908675e2ec",
+      "size": 6421160
     },
     {
       "path": "ui/DXT/ami_rock_zone.dxt",
@@ -668,6 +673,11 @@
     {
       "path": "ui/DXT/sc_pm.dxt",
       "hash": "2f0c131f28b0d307d8b92c01cad0de6ba1e3f82206858bb7c123ed7401176e91",
+      "size": 6421160
+    },
+    {
+      "path": "ui/DXT/ServerSelect_BG.dxt",
+      "hash": "cd259fe10302a71ac4a77cb7a733f72db1f0a9d3079b0972f74f66908675e2ec",
       "size": 6421160
     },
     {
