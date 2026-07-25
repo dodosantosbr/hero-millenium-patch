@@ -1,6 +1,11 @@
 {
   "files": [
     {
+      "path": "data/FreeGift.tbl",
+      "hash": "83913e34eaf4af4e4da8fb33bc75036f2547b1c279514d1a27b9b2bb92043318",
+      "size": 56
+    },
+    {
       "path": "data/tb_AbilityTable.tbl",
       "hash": "798cffe36009204b79f1483fd77d88f7fc710df74d9f0203e29eeb37f852445e",
       "size": 1524
@@ -42,8 +47,8 @@
     },
     {
       "path": "data/tb_buff_infection.tbl",
-      "hash": "9a52020e327fe828fa9c50ce13fe6f710316d33b8d784c4058a16595dfb3e841",
-      "size": 822349
+      "hash": "d84981d015e5c6b4cf55c63da6b8d3c3d7fbb97052f6dd053b5cbc4e13e206e5",
+      "size": 822443
     },
     {
       "path": "data/tb_cashshop.tbl",
@@ -92,7 +97,7 @@
     },
     {
       "path": "data/tb_dropitem.tbl",
-      "hash": "24417031c6f838c92d85e933bda5c04e02a81dcc23f500fb108aec9c3ff250d4",
+      "hash": "6c4a041e93758ab3b2aab6b3881527cb5db021d6e4a9894f3fe213c7aa7c2075",
       "size": 436272
     },
     {
@@ -302,8 +307,8 @@
     },
     {
       "path": "data/tb_NewMunpaData.tbl",
-      "hash": "4d371ebb688f9005335a60eb08bb4ed0caf09eb203b918fa8ea206a5a1bfec05",
-      "size": 353870
+      "hash": "1739fef071cd33b141625276357e4b13389df99bbc0a4be29264c45a92a44018",
+      "size": 356288
     },
     {
       "path": "data/tb_notice.tbl",
@@ -522,7 +527,7 @@
     },
     {
       "path": "data/tb_ZoneTable.tbl",
-      "hash": "8ec9573d9056c09e81e4586fb7188437d6463097f49bd714401ea80976a76516",
+      "hash": "df1fb943d2b753791d524786a66ea4fc5850bdc8b9e5a5e326c6f7bf4f0aae3a",
       "size": 79334
     },
     {
