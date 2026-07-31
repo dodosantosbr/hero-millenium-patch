@@ -531,6 +531,201 @@
       "size": 79334
     },
     {
+      "path": "Emblem/01.bmp",
+      "hash": "2ed7feaab497e4e9ee17c682ce8926631a607bcbd57daa1710602786d81a5a11",
+      "size": 824
+    },
+    {
+      "path": "Emblem/02.bmp",
+      "hash": "8bb77fc0119a1db14ebb4a94df4cc703acfe2c97bef434d179a33f202b8d773e",
+      "size": 824
+    },
+    {
+      "path": "Emblem/03.bmp",
+      "hash": "48c2932a66b6a18a8ee799ee33c70bc55f3c994cc575a5bf67473ef1607d552f",
+      "size": 824
+    },
+    {
+      "path": "Emblem/04.bmp",
+      "hash": "9ed34d1e60cf8b436735d81e65c7cb1e20c6b74c728349374ef5b630cbaa025e",
+      "size": 822
+    },
+    {
+      "path": "Emblem/05.bmp",
+      "hash": "9e2055b49b8a943b0714ad0fd83ca8a80c2357b16ebb7fb32ffdde5f3599dc43",
+      "size": 824
+    },
+    {
+      "path": "Emblem/06.bmp",
+      "hash": "43a0b54f6f310b29dbee1d3291ac4acef857209d62c4234059d6a71cb3faf1d3",
+      "size": 824
+    },
+    {
+      "path": "Emblem/07.bmp",
+      "hash": "87ede6916b69f8157a57fed93282be7c6d55803d049c0b1d6e9c6d95875d53ad",
+      "size": 824
+    },
+    {
+      "path": "Emblem/08.bmp",
+      "hash": "4b0a929cbb592eded15ed4e3b2d211f25ae0ef3b2e28d44402689b7485d5e453",
+      "size": 824
+    },
+    {
+      "path": "Emblem/09.bmp",
+      "hash": "a4e78f5ad9cc9cdb9bbd260d317a6f9fb75ab66f41fc6165df22783ec9f70068",
+      "size": 824
+    },
+    {
+      "path": "Emblem/10.bmp",
+      "hash": "26625b02072fe08e351c4e6c503d905217ee80c88df1be53bf5119e412a1a5e8",
+      "size": 824
+    },
+    {
+      "path": "Emblem/11.bmp",
+      "hash": "4b0d32eecbec32855b1f8039586f6bb54f1fdefb34e43d98587a545e1db48260",
+      "size": 824
+    },
+    {
+      "path": "Emblem/12.bmp",
+      "hash": "54a8c857c68bdee9ee63976246b89d97baafeb9528cd1cedef026caa964beef5",
+      "size": 824
+    },
+    {
+      "path": "Emblem/13.bmp",
+      "hash": "37c389c8748c41e75835c34881bf6603638b4143b7632d54b722b4fd6b71c9f2",
+      "size": 824
+    },
+    {
+      "path": "Emblem/14.bmp",
+      "hash": "be54051e368d1542a4f7a542b2442bf432fb0cc441616ddc3b00c2cde757359f",
+      "size": 824
+    },
+    {
+      "path": "Emblem/15.bmp",
+      "hash": "c86e24c36741a815bb7ebda2f465cd74177f519ede848077e5de6ae2e8670145",
+      "size": 824
+    },
+    {
+      "path": "Emblem/16.bmp",
+      "hash": "68efee3877c99a9beb870fc999e98e368a983591f8f3f8f1ede505f9d986a27c",
+      "size": 824
+    },
+    {
+      "path": "Emblem/17.bmp",
+      "hash": "ef3b7ed64c2aaa749352a9a287b550d800be42550e5d2d7f2e4be604278cc3cf",
+      "size": 824
+    },
+    {
+      "path": "Emblem/18.bmp",
+      "hash": "40ffeb202f6983a80d69a5e6c62430eb4007a5576634fdf87f91f429f6bf3e08",
+      "size": 824
+    },
+    {
+      "path": "Emblem/19.bmp",
+      "hash": "de018f8fda4eae6cd4020c0bb3db07e4ea33efd82ccb031b75231e43cbae0ed7",
+      "size": 824
+    },
+    {
+      "path": "Emblem/20.bmp",
+      "hash": "6afca1f6d17ec35d08488b75f1a9fbf7bd21273e6f6d9b04f3f1bf7f2d681483",
+      "size": 824
+    },
+    {
+      "path": "Emblem/21.bmp",
+      "hash": "f30fa625e8fddccc2d92b452bebd68f0e77acaaa9b5f8b4831658ad46fa1e9dd",
+      "size": 824
+    },
+    {
+      "path": "Emblem/22.bmp",
+      "hash": "4c47ed68b08a074c6eb846937eccac2388f7e2223914f87f8d899bd2b50d9134",
+      "size": 824
+    },
+    {
+      "path": "Emblem/23.bmp",
+      "hash": "5079dfdfe92e5e9133f064eba83df14b1056a6faacbf80ce7963d1b574281bdc",
+      "size": 824
+    },
+    {
+      "path": "Emblem/24.bmp",
+      "hash": "4a352d5846d4bc03a155cac0390880bd7d96358b994655fc9518ff23a6afd646",
+      "size": 824
+    },
+    {
+      "path": "Emblem/25.bmp",
+      "hash": "7c27f3caa9187a01f66b84404e023d2928e58d9ed046e5503b7256a5deda0f70",
+      "size": 824
+    },
+    {
+      "path": "Emblem/26.bmp",
+      "hash": "ff9f33b4174f5c9df390f4ce326e556b48451d94dce20577ce36aea91c7de0d3",
+      "size": 824
+    },
+    {
+      "path": "Emblem/27.bmp",
+      "hash": "f2b360aa2fad04a1ea478637f6430f95fa3132c293dce5276eb59cdd806da1e8",
+      "size": 824
+    },
+    {
+      "path": "Emblem/28.bmp",
+      "hash": "59e54446ae8b500207245a133e3a4397f26d9c7f4e8488fe43fa10f8abe673b3",
+      "size": 824
+    },
+    {
+      "path": "Emblem/29.bmp",
+      "hash": "09414d5e37424c6ba8c5a5f05c3ca4a6e4af288c23ef63e9055cb2c424e3a512",
+      "size": 824
+    },
+    {
+      "path": "Emblem/30.bmp",
+      "hash": "cbefeedb9c21bd57e163ba057a735b1c5363c6dbec72b714128926410a7aa34f",
+      "size": 824
+    },
+    {
+      "path": "Emblem/31.bmp",
+      "hash": "05fd11f97b2609df2cb29e229cd717291b16051915bf2e540f91de73dabfb915",
+      "size": 824
+    },
+    {
+      "path": "Emblem/32.bmp",
+      "hash": "b7c1ddc8356118521456f58385138e51b9fadbc5360aa2617eab6545185b2d71",
+      "size": 824
+    },
+    {
+      "path": "Emblem/33.bmp",
+      "hash": "0a00cff10acc62366680ba3da4c81ae95ef7ae2fa6c28a23736ffc5daade1727",
+      "size": 824
+    },
+    {
+      "path": "Emblem/34.bmp",
+      "hash": "11cc3ab0a4de1a2ceb73b40f818add64c9074992bb1aeea22f4096f1cb2f109c",
+      "size": 822
+    },
+    {
+      "path": "Emblem/35.bmp",
+      "hash": "86f35b6dc8e1e55b7b12eb1b430f0306d8897c8f3926cd95a2e761bc3f570da3",
+      "size": 824
+    },
+    {
+      "path": "Emblem/36.bmp",
+      "hash": "b46a1a6b71a0bce74b772bafd104fd107a68b14833c5658d2c6a03012c2b3c3d",
+      "size": 824
+    },
+    {
+      "path": "Emblem/37.bmp",
+      "hash": "c90057ca8c1a0a60b8826a0309ac4251270eb481ba3d1cce9dd301e422daf169",
+      "size": 824
+    },
+    {
+      "path": "Emblem/38.bmp",
+      "hash": "e244791a2d1923caf4b922f5df441159771da540f5a51b8bd4834d1844b0d951",
+      "size": 824
+    },
+    {
+      "path": "Emblem/39.bmp",
+      "hash": "3ef48443e27763ebc29a929863e624b55c2e12feb3fcc95d7b627b8af39aae87",
+      "size": 824
+    },
+    {
       "path": "ui/loginbg.DXT",
       "hash": "5b59a4148b251d243a21836a51fe95c5872999ef713fcbe55ab644615bce3593",
       "size": 6424504
