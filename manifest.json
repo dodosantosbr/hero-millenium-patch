@@ -101,6 +101,11 @@
       "size": 436272
     },
     {
+      "path": "data/tb_dropitem_bckp.tbl",
+      "hash": "6c4a041e93758ab3b2aab6b3881527cb5db021d6e4a9894f3fe213c7aa7c2075",
+      "size": 436272
+    },
+    {
       "path": "data/tb_Dungeon.tbl",
       "hash": "ea849d436ea08aaddeb6ac98e65c17d3a7c0df11e97b0175449354d26a1853e2",
       "size": 252
@@ -252,8 +257,8 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "f4d76541ebe817a927ead8953d271005ca98c5ed3343a0d58077c352dbd69281",
-      "size": 11491624
+      "hash": "e7e453355884a465b7e4a0a98cdae034bda88b83ad062a57583a2db43c504a9e",
+      "size": 11491686
     },
     {
       "path": "data/tb_ItemTable_NPC.tbl",
@@ -307,7 +312,7 @@
     },
     {
       "path": "data/tb_NewMunpaData.tbl",
-      "hash": "1739fef071cd33b141625276357e4b13389df99bbc0a4be29264c45a92a44018",
+      "hash": "e05e6f9f3a1caed40aa1fb15f7317e48cf8ec7e5f3b95b1d3b3224ac852d2715",
       "size": 356288
     },
     {
@@ -462,7 +467,7 @@
     },
     {
       "path": "data/tb_Starteritem.tbl",
-      "hash": "76418943ea9afcaa3003cfdb68dac5892e72bf03315e5ae26fcf59f928ca1328",
+      "hash": "4c4ccde1ef22e1cae3f1546d5ff5105f85026f62b02de2ab2a8f5c2b19abac84",
       "size": 800
     },
     {
