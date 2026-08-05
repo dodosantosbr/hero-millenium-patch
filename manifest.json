@@ -736,6 +736,11 @@
       "size": 6424504
     },
     {
+      "path": "ui/logo.dxt",
+      "hash": "f833825482a36d5f0177cf2946f215ce07a77853840500b87da8749f4d7980ea",
+      "size": 6422552
+    },
+    {
       "path": "ui/mugong_h.DXT",
       "hash": "fe7149d21375c67d084c3d86d7f7db81429dd2cab2e0669683a3a62fbb823174",
       "size": 1398104
@@ -824,6 +829,11 @@
       "path": "ui/DXT/loginbg.DXT",
       "hash": "5b59a4148b251d243a21836a51fe95c5872999ef713fcbe55ab644615bce3593",
       "size": 6424504
+    },
+    {
+      "path": "ui/DXT/logo.dxt",
+      "hash": "f833825482a36d5f0177cf2946f215ce07a77853840500b87da8749f4d7980ea",
+      "size": 6422552
     },
     {
       "path": "ui/DXT/nuran_castle.dxt",
