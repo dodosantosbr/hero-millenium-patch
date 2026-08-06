@@ -52,8 +52,8 @@
     },
     {
       "path": "data/tb_cashshop.tbl",
-      "hash": "ab56bb6276888c7d1d483040588879e57f8df0cf77ced5d5255a5805d4ef7b30",
-      "size": 29678
+      "hash": "1f4ec0294376b0c22cd84809680e1802322a625c0d927801cfcada975b00c684",
+      "size": 29496
     },
     {
       "path": "data/tb_Chamhap.tbl",
@@ -171,6 +171,11 @@
       "size": 15216
     },
     {
+      "path": "data/tb_FX_Table_bckp.tbl",
+      "hash": "20ceb063aa906410fe37935e6c1e31ec26d0f00ef1b4d9096eddc3aee2fb2f2c",
+      "size": 15216
+    },
+    {
       "path": "data/tb_gamblerate.tbl",
       "hash": "08dbcebc73b1cc327e9959fdb8dcf0d1d4ecb341b79597464392ff789991b658",
       "size": 304
@@ -247,7 +252,7 @@
     },
     {
       "path": "data/tb_ItemSet.tbl",
-      "hash": "6ba6a4b07f02e2b7cb95bbccf85a2afcad42627d4f63ff0d1505add4c433b4d2",
+      "hash": "f342b8e5e41ee08a0b21f8577e0d12d6fa9ab6be2895ad2261aae21af40078be",
       "size": 40262
     },
     {
@@ -257,8 +262,8 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "902e7a6631db0ce3dbc31bf0dd08b2f59dfff2df67b3c93e2bfc06039bcbe846",
-      "size": 11491706
+      "hash": "9c2cc894c12e09f292a503b466e7f7850b72b5140073627c81c61a2cc0171ae4",
+      "size": 11491153
     },
     {
       "path": "data/tb_ItemTable_NPC.tbl",
@@ -312,7 +317,7 @@
     },
     {
       "path": "data/tb_NewMunpaData.tbl",
-      "hash": "e05e6f9f3a1caed40aa1fb15f7317e48cf8ec7e5f3b95b1d3b3224ac852d2715",
+      "hash": "6bab36eaf68ff29c3eb643db8851bbd101190aa4427a22d462d094c53fa436d1",
       "size": 356288
     },
     {
