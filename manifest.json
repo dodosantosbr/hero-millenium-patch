@@ -47,8 +47,8 @@
     },
     {
       "path": "data/tb_buff_infection.tbl",
-      "hash": "d84981d015e5c6b4cf55c63da6b8d3c3d7fbb97052f6dd053b5cbc4e13e206e5",
-      "size": 822443
+      "hash": "c4472685ed610bf36fe1a91b68f673c3f0e33c93fc64db16a33280f00571dc84",
+      "size": 822438
     },
     {
       "path": "data/tb_cashshop.tbl",
@@ -337,8 +337,8 @@
     },
     {
       "path": "data/tb_NPC_Menu.tbl",
-      "hash": "628c782fdb8cb10225d85be699e3263f2c6344cf532bde84d4dceba9a87354b0",
-      "size": 75976
+      "hash": "1d652386a9a61ca7c344c74bc35a4cbbe75a55c9a6c53512b693833d160651fb",
+      "size": 75965
     },
     {
       "path": "data/tb_NPC_Script.tbl",
