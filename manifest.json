@@ -47,12 +47,12 @@
     },
     {
       "path": "data/tb_buff_infection.tbl",
-      "hash": "c4472685ed610bf36fe1a91b68f673c3f0e33c93fc64db16a33280f00571dc84",
-      "size": 822438
+      "hash": "21c9d166641e016f61c22e29da71a3099944d0aafcf618a1bf89b43261000327",
+      "size": 822445
     },
     {
       "path": "data/tb_cashshop.tbl",
-      "hash": "ed8e7b680ddea28761d2a6077fba0bff327c2ec27917d1e78bb34b1d2088106b",
+      "hash": "1c59c666c8c579d0279f0cdab3eeb1044b3ac26d59035651071ba0429c712b18",
       "size": 29496
     },
     {
@@ -262,7 +262,7 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "bb8140877d6726de17b614d6392c80ca7d83de3dd65c7ea26e2826893c6eed21",
+      "hash": "44a3d32f6d005dbb079f5a11caec6ba463f076429a85d96779f3d5f4e8e087ec",
       "size": 11491153
     },
     {
@@ -736,6 +736,11 @@
       "size": 824
     },
     {
+      "path": "ui/c_i_attackup01_double.uif",
+      "hash": "3088e5484b178b6f269efecefda3c9440a5e51a1170ddd421ce6ce767cbf1158",
+      "size": 252
+    },
+    {
       "path": "ui/loginbg.DXT",
       "hash": "5b59a4148b251d243a21836a51fe95c5872999ef713fcbe55ab644615bce3593",
       "size": 6424504
@@ -929,6 +934,16 @@
       "path": "ui/DXT/trade_zone.dxt",
       "hash": "ead6d393c750132edc727f28fa00be958a5746dcdf82106710711bc833ea932f",
       "size": 6421160
+    },
+    {
+      "path": "ui/DXT/ui_body_23.tga",
+      "hash": "1eb72fda21f7d31eaf44efab79292b0effe91552367131972559710aa9d10147",
+      "size": 1048620
+    },
+    {
+      "path": "ui/DXT/UI_body_25.tga",
+      "hash": "27c0d755550a03249311ed7250710a15ece5b482a3620fb46302db44a978a3db",
+      "size": 1048620
     }
   ]
 }
