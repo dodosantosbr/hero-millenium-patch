@@ -47,8 +47,8 @@
     },
     {
       "path": "data/tb_buff_infection.tbl",
-      "hash": "4639dce91ba0b0502a252b9fac9e022f6ea82fab2fbd65602bcca33393161085",
-      "size": 822445
+      "hash": "5ed8681f9c011e0b7e677a8029ca1ef67c4b1ece41fc401bd93ebe9d939ae58c",
+      "size": 822436
     },
     {
       "path": "data/tb_cashshop.tbl",
@@ -252,7 +252,7 @@
     },
     {
       "path": "data/tb_ItemSet.tbl",
-      "hash": "f342b8e5e41ee08a0b21f8577e0d12d6fa9ab6be2895ad2261aae21af40078be",
+      "hash": "b3dfca2cf4c93c3e8aaa84b06a28bf4aba53e36dffde397fed5ccb68db96cd45",
       "size": 40262
     },
     {
@@ -262,7 +262,7 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "1da7611b5ee34dbee0db55e413a2c2589844ba6fd53b4e3533579ffd8d54f3fe",
+      "hash": "a94cd1a813348ea5c4eef01cd0c011646144a5d7f06331a47388873ed9e9e2d6",
       "size": 11491153
     },
     {
@@ -472,7 +472,7 @@
     },
     {
       "path": "data/tb_Starteritem.tbl",
-      "hash": "6afae193291c9e4ca04eed3ecaf142496f2b5ac502883cf3b69cd8d8049368b8",
+      "hash": "88a9044514a4239c0405db2c59bbe292fa0b4a5a400d74cc29491ba2a6082202",
       "size": 800
     },
     {
