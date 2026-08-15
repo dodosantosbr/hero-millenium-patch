@@ -736,6 +736,21 @@
       "size": 824
     },
     {
+      "path": "fx/bf_zone_sawangchun_obj_01.fxb",
+      "hash": "deebf6c1b65aefaa1e8e57832dd1e7e212fb6a96bacdc627afead7006db6d96a",
+      "size": 4353
+    },
+    {
+      "path": "fx/bf_zone_sawangchun_obj_11.fxb",
+      "hash": "37f166c90326084fea2c2cdfa2a26847970ca4b7e628e3cb43d2a5d2ed5a2577",
+      "size": 3089
+    },
+    {
+      "path": "fx/shape/obj/bf_zone_sawangchun_obj_11.vams",
+      "hash": "0acb68e04942d43204d55fe0fca10a96fae8bfe4d16bbfdf865e534c923d9622",
+      "size": 5714
+    },
+    {
       "path": "ui/c_i_attackup01_double.uif",
       "hash": "3088e5484b178b6f269efecefda3c9440a5e51a1170ddd421ce6ce767cbf1158",
       "size": 252
@@ -944,6 +959,621 @@
       "path": "ui/DXT/UI_body_25.tga",
       "hash": "27c0d755550a03249311ed7250710a15ece5b482a3620fb46302db44a978a3db",
       "size": 1048620
+    },
+    {
+      "path": "world/ENV/bf_zone_sawangchun.n3sky",
+      "hash": "2375026d61828ff8da3fe2d7b15d7656f84e0803379c85a5abcecbabef2ced1e",
+      "size": 2552
+    },
+    {
+      "path": "world/GameMap/bf_zone_sawangchun.bgi",
+      "hash": "1fd574c651f440a7992f65b581f4e139689fc96e3b8e0f8757c8ff660f7bb07d",
+      "size": 5446
+    },
+    {
+      "path": "world/GameMap/bf_zone_sawangchun.cel",
+      "hash": "7e5fe68998ebf0327f084ab620c8e237cedf186705b859165fd4cd7cc11b907d",
+      "size": 3158038
+    },
+    {
+      "path": "world/GameMap/Bf_zone_sawangchun.flw",
+      "hash": "646f472a5b8092d51501b2c73c44b640828014508a559089792694a51b113687",
+      "size": 24484
+    },
+    {
+      "path": "world/GameMap/Bf_zone_sawangchun.gmd",
+      "hash": "130192c04686342eabc7d6aa2444bb8a24cb1c008244081aa33ef2198f0ec934",
+      "size": 84
+    },
+    {
+      "path": "world/GameMap/Bf_zone_sawangchun.gmt",
+      "hash": "e7fdecba1d1fc9ff7ae5a3b7b27e7d725849b284ce1e756e7767d7209566c7ad",
+      "size": 266516
+    },
+    {
+      "path": "world/GameMap/bf_zone_sawangchun.grs",
+      "hash": "e2cb4c42a9ecf43162f6e511e391d319cf98a77810cf595fe5f95dee7413e228",
+      "size": 4434768
+    },
+    {
+      "path": "world/GameMap/Bf_zone_sawangchun.mlo",
+      "hash": "c6c66ef27ea04f7cc85fe956d5dc47542cb162827cf49ec8905ded0fef096c05",
+      "size": 19444
+    },
+    {
+      "path": "world/GameMap/bf_zone_sawangchun.opd",
+      "hash": "ab75b949df3a6c0e1999fa4b2b8b254d89c671877708311b2e8186d2d49f616a",
+      "size": 2043647
+    },
+    {
+      "path": "world/GameMap/bf_zone_sawangchun.pod",
+      "hash": "67eb6b2d4b595bc7b22198026ee8d65c7897988deb71c9a75c55bc461c5add95",
+      "size": 2105360
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_01.n3object",
+      "hash": "25a935bc84b1a692ecbe0d7dc9e9d9465f8fee58e72a18ce3f676ce7315df180",
+      "size": 245
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_01.n3pmesh",
+      "hash": "45db9fd06f15c4ea239bde40ccbdde376ae5aaaeca864040a655c6f8f2ae5c7b",
+      "size": 1485
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_01.n3shape",
+      "hash": "7f1268a46ac7b633288827c693528dc6e7ee5134462f94a3d56f6a2047ef9e60",
+      "size": 366
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_01.n3vmesh",
+      "hash": "d27d025861b8b9bf1032b008fa190d32a4bfc00bd2394039de6ededb979cfa6f",
+      "size": 767
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_01_01.n3pmesh",
+      "hash": "fcedadbcca5d2853f5300c9900ef318217cb45e6de97bfdef46a561e0d472c59",
+      "size": 6156
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_01_bf_zone_sawangchun_obj_01.n3pmesh",
+      "hash": "efa9d1c25ee24ff1daca0ae61b8b5fd677f27adb676d81a585815f8e92fb831a",
+      "size": 1511
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_01_cillision.n3pmesh",
+      "hash": "98b05255ac55253b0b40420c950f48459a3732d07a0d6e55a6d5532108246da4",
+      "size": 1023
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_02.n3object",
+      "hash": "ef5a6b711fbed91b78cb1737c47b8a07d2d3f5282022a773ac73367a6bfe20f6",
+      "size": 245
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_02.n3pmesh",
+      "hash": "6481bcd050454432a753dbdeafcb9fe1168974091466c092f648d1ae8ed3fda2",
+      "size": 1485
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_02.n3shape",
+      "hash": "53df2d99b7ca058b540314c1edc0a15b75e7d7993d7dd3cb111d4bfe4c663c3c",
+      "size": 366
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_02.n3vmesh",
+      "hash": "33ae1e0df6fdb1d51e54fa1eedb798bfda5a54fbd09af40fab9c40c0482c6920",
+      "size": 479
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_02_01.n3pmesh",
+      "hash": "d0105e74faa93be04af764466a87ff7cc1f466881c4d3e673cd5f5a651761acc",
+      "size": 9560
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_02_bf_zone_sawangchun_obj_02.n3pmesh",
+      "hash": "7d9fa8f63fe10ab60871cc9d0e9b16ffdc6057d343c6d722d991877948fe8a4a",
+      "size": 799
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_03.n3shape",
+      "hash": "2effd4c01edc8f816312de3039fbce00a95c136a418aed4beeebc9575b2f3344",
+      "size": 366
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_03.n3vmesh",
+      "hash": "d069421446c70bcdf42151e01a79d182a432bbc5e32351cb8ae62761b816bb3b",
+      "size": 479
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_03_01.n3pmesh",
+      "hash": "1338f8a1467fc0fdc0b532ecaf0c2abf222ab7d5e6540f53f5f5f9b7c8343b28",
+      "size": 660
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_03_bf_zone_sawangchun_obj_03.n3pmesh",
+      "hash": "40ce93577b9c528bbca96bd5a8659e10ce89925c61921d7176d464dd9349d63f",
+      "size": 799
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_04.n3shape",
+      "hash": "eea9e6ea2143fddbd6e9fdef8d562c4523698218583d40f6e821a7398e5ca7da",
+      "size": 366
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_04.n3vmesh",
+      "hash": "c81a5e144441f64b712e8750bad4b914f36631fd234a5c438a74afbd090ad472",
+      "size": 1271
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_04_01.n3pmesh",
+      "hash": "03e5d7d217b6b83392d79df18eb0da4a697f257d9bfe1bf5c24f0864cf4a30dc",
+      "size": 3680
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_05.n3shape",
+      "hash": "a148cffce932e18eae234f6a1b26590aef412e918af5080754bb77e64c78afc4",
+      "size": 996
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_05.n3vmesh",
+      "hash": "5bb5563bbc3fda3c16589304b8690292d42ca868da35e01911c13ef19d8aa99f",
+      "size": 4871
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_05_01.n3pmesh",
+      "hash": "8c7b12012450b571d05fa7e26ea3ed7f4a3100c45c21376757726a0f7c12ee63",
+      "size": 4072
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_05_02.n3pmesh",
+      "hash": "b5991a7440dcca0c8b57c9204ebfa12e272ea0f807803beddaa4e020e4e29548",
+      "size": 1244
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_05_03.n3pmesh",
+      "hash": "5d87558b55bb3df926eec0b31b28da41b2af9466468c47c1a9beb2857b54c93c",
+      "size": 1148
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_05_04.n3pmesh",
+      "hash": "3ae7a8d0c18321af69636ad720e374c1fe875fc058a5f81fe68085a98fda0592",
+      "size": 1108
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_06.n3shape",
+      "hash": "7fd897dfdf793819d1941bab2d2dd1986bb0de462fbe3c29f3b7310baaf570c0",
+      "size": 366
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_06.n3vmesh",
+      "hash": "60af3856d7d70dadf1d460005b4b272447f1538ab52cfc6562b327ec7b3e5b68",
+      "size": 479
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_06_01.n3pmesh",
+      "hash": "faefcd5d6e98523fe6e5487adf0fcdcb870a9e9e14b43218af333a7bd529c6a8",
+      "size": 2176
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_06_01.n3shape",
+      "hash": "1d603fc7855423f7ecaf894e8fdbe427570cb6d9d52a821a312fc165d137260d",
+      "size": 375
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_06_01.n3vmesh",
+      "hash": "78c19e67136848fbaf562a51fd6ab9808c686d7f6ef9c832501241238432bdac",
+      "size": 482
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_06_01_01.n3pmesh",
+      "hash": "ad853424df0b06585b60ba7a12fd268fb68f757f486fb8862b5b3077ea77ba6f",
+      "size": 1619
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_06_02.n3vmesh",
+      "hash": "c7f3403be115801417336c16c792d227e2d9f09daff1048614f3a3ac4e368804",
+      "size": 1346
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_06_02_01.n3pmesh",
+      "hash": "31e4c4958cc44e2b85c83c9730ccb927e7fb3e1374b0061a08ff20c88dd56c27",
+      "size": 2599
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_06_03.n3shape",
+      "hash": "6795b1255059324a94ae614e013ad5ff86128e87af39452cf34ef7108246bc98",
+      "size": 375
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_06_03.n3vmesh",
+      "hash": "20e5fa53e52c435fb8af674c522b6841e71be061b83f8d3be559d3b77637cbc5",
+      "size": 482
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_06_03_01.n3pmesh",
+      "hash": "ef30a851dc465617688cfdb3d2fa5cc98635b1ceb58413b15de4982b6ee1f876",
+      "size": 919
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_06_04.n3shape",
+      "hash": "c3439b954c11fba786d62bcca5b184eb7e34df48ad4798a2d331df038023f86e",
+      "size": 375
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_06_04.n3vmesh",
+      "hash": "b00f6232dc38ae8e8fad55d9a1d2c82de91d24719ef3ab003ed58b57f0d2620c",
+      "size": 482
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_06_04_01.n3pmesh",
+      "hash": "243ec1b1408633a710684bf170b789546d81a2e83edad0d8a00fd5c417c8ac62",
+      "size": 1619
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_06_04_bf_zone_sawangchun_obj_06.n3shape",
+      "hash": "ef2ba7c293070843c0c141ad41259cd6dff17450679d68a127040f2a943dd8df",
+      "size": 409
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_06_04_bf_zone_sawangchun_obj_06.n3vmesh",
+      "hash": "50ad0dae0f6ec715663999316333e7c75aae2af6f34ff10dc12dc92a224fa799",
+      "size": 508
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_06_04_bf_zone_sawangchun_obj_06_01.n3pmesh",
+      "hash": "d70eff238fd53b9cad2c869b4e3b561b195a5434513a142e4381de2ed32f3f53",
+      "size": 1645
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_07.n3shape",
+      "hash": "a75c7c7c74a5fc8a199ad4f64e29bd3aa2a3a056c2874b3a0d028ad2a7c6e764",
+      "size": 366
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_07.n3vmesh",
+      "hash": "4f28f8d01071636f977a4fbc8051037228fc54e2007d406b71df3b1196092f35",
+      "size": 839
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_07_01.n3pmesh",
+      "hash": "7fe20adbe048cdef500713d03d47898f6bd591a6c35effb667a14ddc4377dd11",
+      "size": 1104
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_07_01.n3shape",
+      "hash": "b7b303757af86939470339601d471a53a9a6d6dc24410568f53db3d1a464932f",
+      "size": 375
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_07_01.n3vmesh",
+      "hash": "fe192616cb8401100ddfaf833d8dd652fa868c914381df7be9cb55efd5baa19b",
+      "size": 842
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_07_01_01.n3pmesh",
+      "hash": "366078d34fb2c0873768beff15ea87af0f2236ad83db7e536245d1d478c66220",
+      "size": 1107
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_07_02.n3shape",
+      "hash": "06765ed9ed0cf418c8806623655ee5e73282b51b62ab4d83ff50788d90bfd588",
+      "size": 375
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_07_02.n3vmesh",
+      "hash": "1e1cf98b42f78fd3c282ca980f2a57e8e1e790fb957a0d32d7650080dcdc36c1",
+      "size": 410
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_07_02_01.n3pmesh",
+      "hash": "80c12c42a22dba15a2711cab11a1d4fcf167389513f00e67bda80efcea1d0bde",
+      "size": 651
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_08.n3shape",
+      "hash": "6e6a5ef6d325133007640377cc4bd11f3b0f4e79ef0510804c265ff1bc43f821",
+      "size": 366
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_08.n3vmesh",
+      "hash": "c64bc61dadf2bfa7db1f61e3c15ec5dfcc509188f4dd7073f086d2cf079e1b3c",
+      "size": 3215
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_08_01.n3pmesh",
+      "hash": "56b7076423b103d23730cfea26ccbaecc71e794540a57f8e4cc30bd87987dfa4",
+      "size": 5788
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_09.n3shape",
+      "hash": "dccbbab3e8cb6a8af5bde346eff48f6450e4937a495b5f9f4ed02b963c824e86",
+      "size": 1205
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_09.n3vmesh",
+      "hash": "b97a62597505411dd2ea1b993c91cbaeab3630781cc6ba8f6dcb678a1e09c440",
+      "size": 17579
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_09_01.n3pmesh",
+      "hash": "eecf0d9b17bf5c3cd1320221eae28908d46c577cda22e714252d6beaf32b8e97",
+      "size": 1080
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_09_02.n3pmesh",
+      "hash": "6c2844117d3f50fbf72846618a290b447ca3dca65f66120824eb64cb0f972253",
+      "size": 20780
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_09_03.n3pmesh",
+      "hash": "ad9b6d6c613ee94433f67317f1984cb703ab9e115b7937f9ec8077f5afabbd93",
+      "size": 1756
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_09_04.n3pmesh",
+      "hash": "e9c8d90ab708c420dee10e0c7e08701fc76462afea43ae04f36f6878b79642a5",
+      "size": 1366
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_09_05.n3pmesh",
+      "hash": "26dfed83377658fd8a135d81d85e1197938ddb779f5a7661f5a907c7f1725d67",
+      "size": 1168
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_10.n3shape",
+      "hash": "fc47465363c006b675d25d309a2c51865cc454cc9b3182352de9cd305ad38bd0",
+      "size": 787
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_10.n3vmesh",
+      "hash": "6c0554b6670be740fb26ec344abf3dcff22fa32a79975f142488927649ccf6ec",
+      "size": 6023
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_10_01.n3pmesh",
+      "hash": "65c384ec13dec61a64829c8849dc65df72d570cf94ee5517ad5366836e60bd4c",
+      "size": 532
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_10_01.n3shape",
+      "hash": "2849e90de119c056ab05e576378a0cbabc64c06a4a93cc790b1cd27ff7d87637",
+      "size": 378
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_10_01.n3vmesh",
+      "hash": "9e4b39ec14fd5431beb25598c09b93385c9a9b715b9df187ce24c7a5bcd6af1b",
+      "size": 698
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_10_01_01.n3pmesh",
+      "hash": "836b15ebaf57a65e24e07ca664a9fe361f9c09b103d466e7c56d0eacbebbf09e",
+      "size": 7311
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_10_02.n3pmesh",
+      "hash": "083c4f337fd34d97a8ce00429327b6eeb898ac6c587b0887b9b80a7490184ab7",
+      "size": 5540
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_10_03.n3pmesh",
+      "hash": "2a4b92f38142d6c0c7f0f45daf694f18781b7eae1c1cab6087d511b49f6d2efc",
+      "size": 2768
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_11.n3object",
+      "hash": "ff7a5edb0264c29b78f28956e60733983f6c4c87dc0b5cf73895c4c169663f5d",
+      "size": 245
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_11.n3shape",
+      "hash": "ed5211228384c287d7b9509da495c6eab02f757cb70250b575ea6e060bca3469",
+      "size": 996
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_11.n3vmesh",
+      "hash": "183f579f30ce64ff11e4ee1facb544c0c601a37ba23d21bddea1ccd107f665fd",
+      "size": 7535
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_11_01.n3pmesh",
+      "hash": "11b08388ec763124d1aa2114bbe771f769ac268b19e3cf37cea238cfe85842b4",
+      "size": 2684
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_11_02.n3pmesh",
+      "hash": "928d3db274233ab2ed22b0f9d6fac008301f6a5e886529801afcdf0a5727517d",
+      "size": 8652
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_11_02.n3shape",
+      "hash": "d22436391cf7085f810ff0347cae20c1d42b8d4ebbdb8f8e881214b2c96a15ac",
+      "size": 378
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_11_02.n3vmesh",
+      "hash": "2dd66b3c1f811a294afc1157b479a0792235e64f421a75ee19eada91e013bbbf",
+      "size": 482
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_11_02_01.n3pmesh",
+      "hash": "4106fbe73b7d41111333a78117540068c59aad0c97b6f3aabc7193424981cd09",
+      "size": 2599
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_11_03.n3pmesh",
+      "hash": "fb9e9fa0df848300d2d144776cfeace57764e8bb52f9394ddc8a76fefe58dc20",
+      "size": 1276
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_11_04.n3pmesh",
+      "hash": "507883bab14f417773264752865b252572308c39a787bb65bce42e3853be746f",
+      "size": 9036
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_12.n3shape",
+      "hash": "d5dcaef54a300fd7efa547a2561f53b0f79a8c48cb3abc58a376c33083cc21ec",
+      "size": 366
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_12.n3vmesh",
+      "hash": "3112d30b46fd5b6ece11d94d4707524053327c1f38036a79b19f511791e29ad9",
+      "size": 1055
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_12_01.n3pmesh",
+      "hash": "f3b1fd3048ed66152822859d1cda769c0a924dc1ee2bcca3674c905585c49355",
+      "size": 13188
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_12_box01.n3pmesh",
+      "hash": "7f7e5ed75ca6dbf60d7c7ecea8d307e7157e22d7b7f3fca088407def5711d193",
+      "size": 995
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13.n3shape",
+      "hash": "f279d1d09fec57007e1db54c670cdb000dcad3a161a98f9f0fe1897f7a24fe91",
+      "size": 366
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13.n3vmesh",
+      "hash": "6a8e1a9675cb231532b10217ea11a133544640668644ff0e57b33e11f69ca1ce",
+      "size": 479
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13_01.n3pmesh",
+      "hash": "0753d8e0c26a9095c09e4ce4d14478a461a62b44f534f427e1f9e899dc052eb6",
+      "size": 4004
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13_01.n3shape",
+      "hash": "d9f4894bbfa2e63972fe482fdd19fed314804fa8c04a93f51ae46f3e4606a8ea",
+      "size": 375
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13_01.n3vmesh",
+      "hash": "4c55c06fc13e9b09055407d20facd053c69a4657da928eff07a33f4ce105a735",
+      "size": 482
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13_01_01.n3pmesh",
+      "hash": "f00788dd76af6c904e8622d37b04c15d181d10fc4a3fb49592af62a37b3fc119",
+      "size": 919
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13_02.n3shape",
+      "hash": "26ebde08ffbb4875aa45087d50f3d3bcb7a35af7a159390a76d3ff9ca4537417",
+      "size": 584
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13_02.n3vmesh",
+      "hash": "191472083e14387a191f0dacebc7fd4da8fc52157593ca3dfaf941cd180340ed",
+      "size": 626
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13_02_01.n3pmesh",
+      "hash": "4a8a01e0a07c4825d1af78937a74e02d1b5d822d48be50cfd73f10189defcf5f",
+      "size": 957
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13_02_02.n3pmesh",
+      "hash": "6f28a0b5230d06f8f76716c1139e3fe687bc5aa55a7240f1c6fab4b1d6073725",
+      "size": 257
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13_03.n3shape",
+      "hash": "5605efb3df50343c4840f18a039a542e7b07d43afe1451d63dfe94c1e71acc4d",
+      "size": 584
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13_03.n3vmesh",
+      "hash": "26e1ce48bd1aecb521a1d25f74ca46a31646697ac0d79376ae950c7ffd22ecd0",
+      "size": 842
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13_03_01.n3pmesh",
+      "hash": "1aad50302fea14db03c7f39e6feea68848d25acc54d5f0e8c9b0314a1b4cfb67",
+      "size": 969
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13_03_02.n3pmesh",
+      "hash": "478c3f8db974dbe3963b176637195f8e61f959aca6bf84479aa852b60ec9c5fc",
+      "size": 409
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13_04.n3shape",
+      "hash": "336879bdafbfb809a9e0c6a348cf64cd7c84521e4167d64664e343db032e871f",
+      "size": 584
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13_04.n3vmesh",
+      "hash": "76baf94ddef9244fd1d21f98f3a6c68c4df6d270a6ff4b97892dd37e905d2d77",
+      "size": 770
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13_04_01.n3pmesh",
+      "hash": "601c8df218828897c6086b22db3e406ab2b31723447a58f166d40d23f659f843",
+      "size": 931
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_13_04_02.n3pmesh",
+      "hash": "86d79d08cfa8faa8996ce09fcd39dcebcf6007061bf76f3d90fca0f9d646adf3",
+      "size": 371
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_14.n3shape",
+      "hash": "bda8e62d828a41e7ce842dc2f2f43356c60f70c4d7454ce64172c69c06d8c2a6",
+      "size": 366
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_14.n3vmesh",
+      "hash": "75bf79653b2c11bfeea2266a67095f1dfe1c1dcba59999772df348efbb6d7876",
+      "size": 407
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_14_01.n3pmesh",
+      "hash": "1bcde780686732b81a62f773112cf72e3778e730140e86111522e1642ce3dbfa",
+      "size": 1604
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_15.n3shape",
+      "hash": "0cea56a802a350214062cdf8885e001192bdc8e5cbcb568e11e2561f60754bc4",
+      "size": 366
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_15.n3vmesh",
+      "hash": "6c9529010687ef8f6f60bc9fa9dfd305cb201cbfdf4c45b4d221315a59ef29ed",
+      "size": 4907
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_15_01.n3pmesh",
+      "hash": "7f69a2f0a56a87fcb52d3e723cc6ad6085caf89ae665ef7b698ba85dc3bb61c3",
+      "size": 3862
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_16.n3shape",
+      "hash": "244620fa9afe39258a659ca2bff0962ad7d262c84ea8bf15045303f1d5a43351",
+      "size": 343
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_16.n3vmesh",
+      "hash": "75669a209b9f234464664c757e5a0e01f0695da8830f449d8723471e06d961aa",
+      "size": 1631
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_16_01.n3pmesh",
+      "hash": "57691d3591309e4f002b04883583b7819584f2b2ecd20e3b5e2dabad1e11ae3e",
+      "size": 5276
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_stone1.n3pmesh",
+      "hash": "287657dfcfacdf8db4c68c6616b4b4b78a61c9f6d7fac65e64835bd686c98fa9",
+      "size": 1101
+    },
+    {
+      "path": "world/OBJ/bf_zone_sawangchun_obj_stone1.n3shape",
+      "hash": "4bf5154c945a58430bfc8a32f8d1e7295b4d3206cc07b5641302988f18dc66ea",
+      "size": 332
     }
   ]
 }
