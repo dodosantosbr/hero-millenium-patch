@@ -7,7 +7,7 @@
     },
     {
       "path": "Launcher.dll",
-      "hash": "7567f5ded45006ee73d7236321109d99b2f34ed048298df59d00d5f43018fae3",
+      "hash": "c063b411379d5e5ee7c4df64bf9d5279a3a701bb4e68018af87ba5b3a634ff9d",
       "size": 3112960
     },
     {
@@ -17,8 +17,8 @@
     },
     {
       "path": "Launcher.pdb",
-      "hash": "6c4fd0f6aecd940dab310f3b4089dc549257ce4c0b1545963728d69e92773f06",
-      "size": 17252
+      "hash": "c993ce2c3534230b5cf7df2233c989243f0bb88bd2c7cbd8ae0efd4517917437",
+      "size": 17284
     },
     {
       "path": "Launcher.runtimeconfig.json",
