@@ -1,31 +1,6 @@
 {
   "files": [
     {
-      "path": "Launcher.deps.json",
-      "hash": "eb4aa308ead006766de72fba30fa4db7fcf1122cce32944bfc039da9e259b29e",
-      "size": 416
-    },
-    {
-      "path": "Launcher.dll",
-      "hash": "c063b411379d5e5ee7c4df64bf9d5279a3a701bb4e68018af87ba5b3a634ff9d",
-      "size": 3112960
-    },
-    {
-      "path": "Launcher.exe",
-      "hash": "c266c97eb4932ba00ac6aee7cdf3f065d04995181f6a1509997aaa1053c00827",
-      "size": 309760
-    },
-    {
-      "path": "Launcher.pdb",
-      "hash": "c993ce2c3534230b5cf7df2233c989243f0bb88bd2c7cbd8ae0efd4517917437",
-      "size": 17284
-    },
-    {
-      "path": "Launcher.runtimeconfig.json",
-      "hash": "89ad1ea5c9c20b6b266547ef27c0ae3840cab5642d3c2aedf06b7026245671dd",
-      "size": 515
-    },
-    {
       "path": "data/FreeGift.tbl",
       "hash": "83913e34eaf4af4e4da8fb33bc75036f2547b1c279514d1a27b9b2bb92043318",
       "size": 56
