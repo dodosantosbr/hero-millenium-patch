@@ -1,6 +1,11 @@
 {
   "noticias": [
     {
+      "titulo": "Masmorra Ajustada",
+      "data": "17/08/2026",
+      "resumo": "Masmorra em grupo ajustada."
+    },
+    {
       "titulo": "Evento PVP",
       "data": "15/08/2026",
       "resumo": "Evento irá ter recompensa para 3 colocações."
