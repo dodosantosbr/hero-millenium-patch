@@ -52,8 +52,8 @@
     },
     {
       "path": "data/tb_cashshop.tbl",
-      "hash": "1c59c666c8c579d0279f0cdab3eeb1044b3ac26d59035651071ba0429c712b18",
-      "size": 29496
+      "hash": "fded2e2a6fc6f8606f5e910ebd46e9abf29f1ea1eeed66324294ee3cc84761dc",
+      "size": 28826
     },
     {
       "path": "data/tb_Chamhap.tbl",
@@ -97,12 +97,7 @@
     },
     {
       "path": "data/tb_dropitem.tbl",
-      "hash": "a425d5516f372014bdce387df2b284fb7544ede10c6414f713d2cfc482e62228",
-      "size": 436272
-    },
-    {
-      "path": "data/tb_dropitem_bckp.tbl",
-      "hash": "6c4a041e93758ab3b2aab6b3881527cb5db021d6e4a9894f3fe213c7aa7c2075",
+      "hash": "b60e2c27b5911faa388e5f43a042fd5d20bad86b62729c6c014f048c69067d92",
       "size": 436272
     },
     {
@@ -167,11 +162,6 @@
     },
     {
       "path": "data/tb_FX_Table.tbl",
-      "hash": "20ceb063aa906410fe37935e6c1e31ec26d0f00ef1b4d9096eddc3aee2fb2f2c",
-      "size": 15216
-    },
-    {
-      "path": "data/tb_FX_Table_bckp.tbl",
       "hash": "20ceb063aa906410fe37935e6c1e31ec26d0f00ef1b4d9096eddc3aee2fb2f2c",
       "size": 15216
     },
@@ -242,8 +232,8 @@
     },
     {
       "path": "data/tb_ItemMakingPI.tbl",
-      "hash": "d944f5fa7f4db4e971401e19e5cdeb78c29c0535a6898bbbd7d82e606f1e393b",
-      "size": 101504
+      "hash": "952a52210376e69ba7d76e98a7988abe278e06c932b1e72849dbb490297c8dd1",
+      "size": 560
     },
     {
       "path": "data/tb_ItemMelting.tbl",
@@ -262,8 +252,8 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "ec5f9f935b66646651b10d71b8c55f1b9c3de0958b6b8a6404ac8e6109bf6e3e",
-      "size": 11491153
+      "hash": "c826bb5cd579e207740307df126d6c933da2a32321c543bc1a3c325c04d18c3b",
+      "size": 11491212
     },
     {
       "path": "data/tb_ItemTable_NPC.tbl",
@@ -317,7 +307,7 @@
     },
     {
       "path": "data/tb_NewMunpaData.tbl",
-      "hash": "3988b53e335426520a2ad0ac38030e5eb78ebe3ae0c55a3aa825114cffe93221",
+      "hash": "c184afdcb456a42c2e017e0791f3b648b498e7bbfde4d043f98ea0776a0f2b41",
       "size": 356288
     },
     {
@@ -382,8 +372,8 @@
     },
     {
       "path": "data/tb_production.tbl",
-      "hash": "0dcde734adc481d224456890a8ba3310cc2d66cf942b3c8ed661670e66242050",
-      "size": 12476
+      "hash": "5716d51b0d5ccef00b412f2721de26d517509238e36006bab8aa09bcb7eb0be5",
+      "size": 13683
     },
     {
       "path": "data/tb_pupil_point.tbl",
