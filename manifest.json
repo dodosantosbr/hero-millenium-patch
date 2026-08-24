@@ -1,6 +1,11 @@
 {
   "files": [
     {
+      "path": "data.rar",
+      "hash": "ec7104516b6987c40b0bdc51dd658808720caec29df15b7a3655ac7055ed4d7e",
+      "size": 1336751
+    },
+    {
       "path": "data/FreeGift.tbl",
       "hash": "83913e34eaf4af4e4da8fb33bc75036f2547b1c279514d1a27b9b2bb92043318",
       "size": 56
@@ -372,7 +377,7 @@
     },
     {
       "path": "data/tb_production.tbl",
-      "hash": "5716d51b0d5ccef00b412f2721de26d517509238e36006bab8aa09bcb7eb0be5",
+      "hash": "975db2514400f29ff1a6ae6f6a91084a929112e6dfe7a1e17ea846d0cd6e2cbb",
       "size": 13683
     },
     {
