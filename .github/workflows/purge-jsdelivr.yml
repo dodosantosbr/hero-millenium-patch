@@ -1,0 +1,27 @@
+name: Purge jsDelivr Cache
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Purge jsDelivr cache for all files
+        run: |
+          REPO="dodosantosbr/hero-millenium-patch"
+          BRANCH="main"
+
+          # Pega todos os arquivos rastreados pelo git
+          FILES=$(git ls-files)
+
+          for FILE in $FILES; do
+            URL="https://purge.jsdelivr.net/gh/$REPO@$BRANCH/$FILE"
+            echo "Purgando: $URL"
+            curl -s -o /dev/null -w "%{http_code} - $FILE\n" "$URL"
+          done
