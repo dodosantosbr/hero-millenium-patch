@@ -1,34 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "Masmorra Ajustada",
-      "data": "17/08/2026",
-      "resumo": "Masmorra em grupo ajustada."
-    },
-    {
-      "titulo": "Evento PVP",
-      "data": "15/08/2026",
-      "resumo": "Evento irá ter recompensa para 3 colocações."
+      "titulo": "Nova Transformação Ataraxia",
+      "data": "31/08/2026",
+      "resumo": "Transformação Divina."
     },
     {
       "titulo": "⚔️ Guerra de Facções",
       "data": "Toda Segunda e Quinta",
-      "resumo": "Horários: 10:00 e 19:00"
-    },
-    {
-      "titulo": "🏰 Grande Guerra",
-      "data": "Em Breve",
-      "resumo": "Desativada até breve"
+      "resumo": "Horários: 09:30 e 20:30"
     },
     {
       "titulo": "🐉 Evento Ilha Central",
       "data": "Todo Sábado",
       "resumo": "Horários: 10:30, 15:30 e 20:30"
-    },
-    {
-      "titulo": "Manutenção programada",
-      "data": "18/06/2026",
-      "resumo": "Servidor ficará fora do ar das 04h às 06h para atualização."
     },
     {
       "titulo": "Bem-vindo ao Hero Millenium!",
