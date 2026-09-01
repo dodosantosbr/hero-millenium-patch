@@ -82,7 +82,7 @@
     },
     {
       "path": "data/tb_cashshop.tbl",
-      "hash": "d92b4c91b557ec55761eeb0e85811dbf7f333c3dda72568e030ccf717849cf0a",
+      "hash": "9476cfe837f64646326163d0dd9ab2d62e66f215a426864b4a92d28fa517bf7d",
       "size": 28826
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "path": "data/tb_dropitem.tbl",
-      "hash": "946faa497bf22a2879bd040c50c205d86a4139f560e3584ac26885dc39690bfa",
+      "hash": "afcb2a03134a4ec5a6f8dc93624fcc57c9339e4574888b21b10b43a8c8847a7f",
       "size": 436272
     },
     {
@@ -262,8 +262,8 @@
     },
     {
       "path": "data/tb_ItemMakingPI.tbl",
-      "hash": "952a52210376e69ba7d76e98a7988abe278e06c932b1e72849dbb490297c8dd1",
-      "size": 560
+      "hash": "90ddff9f05b0f9a35dd0450b3618f14a195a051e659c1144fa176056a9dbfaf3",
+      "size": 992
     },
     {
       "path": "data/tb_ItemMelting.tbl",
@@ -272,7 +272,7 @@
     },
     {
       "path": "data/tb_ItemSet.tbl",
-      "hash": "b3dfca2cf4c93c3e8aaa84b06a28bf4aba53e36dffde397fed5ccb68db96cd45",
+      "hash": "9ffd78f3c2f5fc9ab250029b625ca494398b2db706cfbb018e694b906db7059e",
       "size": 40262
     },
     {
@@ -282,7 +282,7 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "bd4de40ee0a125e54d084371a99031d08671208172a3a0917643e01a0dc7f483",
+      "hash": "5c0306553acd2ae117b5b675ef4af1d9e6039ea090e70919868ece7f5e4bb416",
       "size": 11491212
     },
     {
@@ -557,7 +557,7 @@
     },
     {
       "path": "data/tb_ZoneTable.tbl",
-      "hash": "df1fb943d2b753791d524786a66ea4fc5850bdc8b9e5a5e326c6f7bf4f0aae3a",
+      "hash": "3af51e26cb062869f2d7c4577e6c47e0e4bc2b04acb1475b7fcb0732109fc08e",
       "size": 79334
     },
     {
