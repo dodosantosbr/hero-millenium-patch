@@ -82,8 +82,8 @@
     },
     {
       "path": "data/tb_cashshop.tbl",
-      "hash": "9476cfe837f64646326163d0dd9ab2d62e66f215a426864b4a92d28fa517bf7d",
-      "size": 28826
+      "hash": "1f7bb2d73b006e6bf77f807432ccbe4096febc3de33d1b9f4a24e27d1ac1cb59",
+      "size": 23600
     },
     {
       "path": "data/tb_Chamhap.tbl",
@@ -127,7 +127,7 @@
     },
     {
       "path": "data/tb_dropitem.tbl",
-      "hash": "afcb2a03134a4ec5a6f8dc93624fcc57c9339e4574888b21b10b43a8c8847a7f",
+      "hash": "6595eab4d01e5cac91f275ce77c9fc9bf9242e97c701153ecaf3c8470b4941cb",
       "size": 436272
     },
     {
@@ -282,8 +282,8 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "5c0306553acd2ae117b5b675ef4af1d9e6039ea090e70919868ece7f5e4bb416",
-      "size": 11491212
+      "hash": "0bf85f35db60a678f9dffdc75f61a8c0a2fafce72545be91e12bee7f3b4de389",
+      "size": 11491138
     },
     {
       "path": "data/tb_ItemTable_NPC.tbl",
@@ -337,7 +337,7 @@
     },
     {
       "path": "data/tb_NewMunpaData.tbl",
-      "hash": "b7845ea7bbc4ad6348843a2f56c792e9e67575e2f97f5207c01e4ab771f3d169",
+      "hash": "15792789194d9f23560bda287ae346c9ae641b0eed406b27087bf0915a1fab48",
       "size": 356288
     },
     {
@@ -402,8 +402,8 @@
     },
     {
       "path": "data/tb_production.tbl",
-      "hash": "989d5853624f616922b0e8518a5271ec37d5969738cd8f881e30e2830a988e29",
-      "size": 13683
+      "hash": "8ceb846be8ba11e5322c820e65980a3e75d5420cb615e97ebdcc36f3f3596b96",
+      "size": 12966
     },
     {
       "path": "data/tb_pupil_point.tbl",
@@ -497,7 +497,7 @@
     },
     {
       "path": "data/tb_StringTable.tbl",
-      "hash": "6cc9f6fdc440cd5f30bb96ff35826c2b3669e7a5f55690fc9a10c0e1e47750f0",
+      "hash": "d22e3a13d4a507158968bac5b9a03b8313592221e4049b6ad05c922f22df4ab5",
       "size": 36661
     },
     {
@@ -522,8 +522,8 @@
     },
     {
       "path": "data/tb_UIString.tbl",
-      "hash": "05c043587d7ec7033469c3c1c80022130a842eac95575bc54a53bc6ae4899d6d",
-      "size": 162349
+      "hash": "40327ef47993c6835730465969712b14145a16a4361caaa809e9fc6fad4286df",
+      "size": 162391
     },
     {
       "path": "data/tb_UkungExpPlus.tbl",
@@ -557,7 +557,7 @@
     },
     {
       "path": "data/tb_ZoneTable.tbl",
-      "hash": "3af51e26cb062869f2d7c4577e6c47e0e4bc2b04acb1475b7fcb0732109fc08e",
+      "hash": "2cb03d3152f2c0d1de9ddb7de2dd8252e1f9fe798afb98d8fdf123cb9bbc69e5",
       "size": 79334
     },
     {
