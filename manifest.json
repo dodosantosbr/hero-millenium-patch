@@ -82,7 +82,7 @@
     },
     {
       "path": "data/tb_cashshop.tbl",
-      "hash": "1f7bb2d73b006e6bf77f807432ccbe4096febc3de33d1b9f4a24e27d1ac1cb59",
+      "hash": "1d5a36795a81676da5019b459e2af6a83cba81b2f6204c8b93a6b98fb8cc35c3",
       "size": 23600
     },
     {
@@ -282,7 +282,7 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "0bf85f35db60a678f9dffdc75f61a8c0a2fafce72545be91e12bee7f3b4de389",
+      "hash": "ebe75de95dd4e69458d708cfeb7c0270124fdecab41f8e44a5c89a1940a7bf2f",
       "size": 11491138
     },
     {
@@ -357,8 +357,8 @@
     },
     {
       "path": "data/tb_NPC_Menu.tbl",
-      "hash": "5aec481e039cd2999aa94c38d754464275cb57e4dabb33acc0a012276dbc80ac",
-      "size": 75964
+      "hash": "46176e7fe642838c043bb5b07fd6e911b3ea83f93c887c2bc6ed233283d8bb68",
+      "size": 75954
     },
     {
       "path": "data/tb_NPC_Script.tbl",
@@ -462,7 +462,7 @@
     },
     {
       "path": "data/tb_ShopTable.tbl",
-      "hash": "9c748b53bea274910d110cd24007906040c51720d0960e38db81326afaebb8a4",
+      "hash": "b76a69781c515a7c265fb958bcf34a7d0e7fb5fcbbda45402a6b7beda43f76eb",
       "size": 8496
     },
     {

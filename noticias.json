@@ -2,12 +2,17 @@
   "noticias": [
     {
       "titulo": "Nova Transformação Ataraxia",
-      "data": "31/08/2026",
+      "data": "10/09/2026",
       "resumo": "Transformação Divina."
+    },
+	{
+      "titulo": "🚩 Guerra das Bandeiras",
+      "data": "Em Breve",
+      "resumo": "Horários: a definir"
     },
     {
       "titulo": "⚔️ Guerra de Facções",
-      "data": "Toda Segunda e Quinta",
+      "data": "Todos os dias",
       "resumo": "Horários: 09:30 e 20:30"
     },
     {
