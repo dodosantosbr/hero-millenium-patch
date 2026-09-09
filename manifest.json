@@ -522,8 +522,8 @@
     },
     {
       "path": "data/tb_UIString.tbl",
-      "hash": "40327ef47993c6835730465969712b14145a16a4361caaa809e9fc6fad4286df",
-      "size": 162391
+      "hash": "8f2f621130b513f7fd84784d0de9e2851106d91236dddbc74eabf5f9e2e9d8e4",
+      "size": 162430
     },
     {
       "path": "data/tb_UkungExpPlus.tbl",
@@ -557,7 +557,7 @@
     },
     {
       "path": "data/tb_ZoneTable.tbl",
-      "hash": "2cb03d3152f2c0d1de9ddb7de2dd8252e1f9fe798afb98d8fdf123cb9bbc69e5",
+      "hash": "03d7e598bf8663347c9b9ded11e3bbc29d997cf1d7bca299d4367cc9c632403d",
       "size": 79334
     },
     {
