@@ -357,8 +357,8 @@
     },
     {
       "path": "data/tb_NPC_Menu.tbl",
-      "hash": "46176e7fe642838c043bb5b07fd6e911b3ea83f93c887c2bc6ed233283d8bb68",
-      "size": 75954
+      "hash": "22a8cbd7112d23e54809b67d8a855050dc59b9bde716d31912eb12dd4bfd898f",
+      "size": 75977
     },
     {
       "path": "data/tb_NPC_Script.tbl",
@@ -402,8 +402,8 @@
     },
     {
       "path": "data/tb_production.tbl",
-      "hash": "8349f1cc63d07a9f4b69c1bcc1c4107002e9c2349b653df6a90c76aa09ef5322",
-      "size": 12433
+      "hash": "38722c044c27857208389cf44367b8f65e493a0bbc1499c5828908ad416b36a0",
+      "size": 12717
     },
     {
       "path": "data/tb_pupil_point.tbl",
