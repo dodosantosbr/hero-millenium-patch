@@ -1,0 +1,98 @@
+Moon : world\env\phases.tga
+Sun : world\env\sundisk.bmp
+Sun : world\env\sunglow.bmp
+Sun : world\env\sunflare.bmp
+Cloud : WORLD\ENV\wisps.tga
+Cloud : WORLD\ENV\puffs.tga
+Cloud : WORLD\ENV\tatters.tga
+Cloud : WORLD\streaks.tga
+Cloud : WORLD\ENV\dense.tga
+Cloud : WORLD\ENV\overcast.tga
+DayChange Count : 43
+SunRise - SkyColor
+Type : [0], Time : [3600], Color1 : [-2900330], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [2160.000000], bWeather_Percentage : [0]
+SunRise - FogColor
+Type : [1], Time : [3600], Color1 : [-12576256], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [2160.000000], bWeather_Percentage : [0]
+SunRise - SunColor
+Type : [4], Time : [3600], Color1 : [-1], Color2 : [0], color3 : [0], Parameter1 : [100], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunRise - GlowColor
+Type : [5], Time : [3600], Color1 : [-5932434], Color2 : [0], color3 : [0], Parameter1 : [120], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunRise - FlareColor
+Type : [6], Time : [3600], Color1 : [-8761294], Color2 : [0], color3 : [0], Parameter1 : [150], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunRise - Cloud1Color
+Type : [7], Time : [3600], Color1 : [-7484], Color2 : [-157656], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunRise - Cloud2Color
+Type : [8], Time : [3600], Color1 : [-5750016], Color2 : [-9755370], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunRise - Light0
+Type : [10], Time : [3600], Color1 : [-2574975], Color2 : [-9220037], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunRise - Light1
+Type : [11], Time : [3600], Color1 : [-2576746], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunRise - Light2
+Type : [12], Time : [3600], Color1 : [-8627931], Color2 : [0], color3 : [0], Parameter1 : [4], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+Noon - SkyColor
+Type : [0], Time : [5400], Color1 : [-9135620], Color2 : [-16767392], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [2160.000000], bWeather_Percentage : [0]
+Noon - FogColor
+Type : [1], Time : [5400], Color1 : [-10386946], Color2 : [-8816263], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [2160.000000], bWeather_Percentage : [0]
+Noon - StarCount
+Type : [2], Time : [5400], Color1 : [0], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [3600.000000], bWeather_Percentage : [0]
+Noon - MoonPhase
+Type : [3], Time : [5400], Color1 : [-1], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [0.000000], bWeather_Percentage : [0]
+Noon - SunColor
+Type : [4], Time : [5400], Color1 : [-1], Color2 : [0], color3 : [0], Parameter1 : [100], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+Noon - GlowColor
+Type : [5], Time : [5400], Color1 : [-5512194], Color2 : [0], color3 : [0], Parameter1 : [120], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+Noon - FlareColor
+Type : [6], Time : [5400], Color1 : [-10461088], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [150], Elapse : [1800.000000], bWeather_Percentage : [0]
+Noon - Cloud1Color
+Type : [7], Time : [5400], Color1 : [-4469266], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+Noon - Cloud2Color
+Type : [8], Time : [5400], Color1 : [-4469266], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+Noon - Light0
+Type : [10], Time : [5400], Color1 : [-1648449], Color2 : [-8355712], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+Noon - Light1
+Type : [11], Time : [5400], Color1 : [-8018752], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+Noon - Light2
+Type : [12], Time : [5400], Color1 : [-856858], Color2 : [0], color3 : [0], Parameter1 : [4], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunSet - SkyColor
+Type : [0], Time : [79200], Color1 : [-2440550], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [2160.000000], bWeather_Percentage : [0]
+SunSet - FogColor
+Type : [1], Time : [79200], Color1 : [-10138826], Color2 : [-15198184], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [2160.000000], bWeather_Percentage : [0]
+SunSet - SunColor
+Type : [4], Time : [79200], Color1 : [-3439531], Color2 : [0], color3 : [0], Parameter1 : [100], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunSet - GlowColor
+Type : [5], Time : [79200], Color1 : [-4161408], Color2 : [0], color3 : [0], Parameter1 : [120], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunSet - FlareColor
+Type : [6], Time : [79200], Color1 : [-3375064], Color2 : [0], color3 : [0], Parameter1 : [150], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunSet - Cloud1Color
+Type : [7], Time : [79200], Color1 : [-2265344], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunSet - Cloud2Color
+Type : [8], Time : [79200], Color1 : [-6139648], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunSet - Light0
+Type : [10], Time : [79200], Color1 : [-4020334], Color2 : [-4886272], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunSet - Light1
+Type : [11], Time : [79200], Color1 : [-2243934], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+SunSet - Light2
+Type : [12], Time : [79200], Color1 : [-4088726], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+MidNight - SkyColor
+Type : [0], Time : [82800], Color1 : [-13349518], Color2 : [-12829636], color3 : [-4144960], Parameter1 : [0], Parameter2 : [0], Elapse : [2160.000000], bWeather_Percentage : [0]
+MidNight - FogColor
+Type : [1], Time : [82800], Color1 : [-15060892], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [2160.000000], bWeather_Percentage : [0]
+MidNight - StarCount
+Type : [2], Time : [82800], Color1 : [0], Color2 : [0], color3 : [0], Parameter1 : [2000], Parameter2 : [2000], Elapse : [300.000000], bWeather_Percentage : [0]
+MidNight - SunColor
+Type : [4], Time : [82800], Color1 : [-1], Color2 : [0], color3 : [0], Parameter1 : [100], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+MidNight - GlowColor
+Type : [5], Time : [82800], Color1 : [-4863491], Color2 : [0], color3 : [0], Parameter1 : [120], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+MidNight - FlareColor
+Type : [6], Time : [82800], Color1 : [-15789519], Color2 : [0], color3 : [0], Parameter1 : [150], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+MidNight - Cloud1Color
+Type : [7], Time : [82800], Color1 : [-6705970], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+MidNight - Cloud2Color
+Type : [8], Time : [82800], Color1 : [-8545821], Color2 : [0], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+MidNight - Light0
+Type : [10], Time : [82800], Color1 : [-4378], Color2 : [-12303292], color3 : [-16777216], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+MidNight - Light1
+Type : [11], Time : [82800], Color1 : [-11046748], Color2 : [-16774880], color3 : [0], Parameter1 : [0], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+MidNight - Light2
+Type : [12], Time : [82800], Color1 : [-6909260], Color2 : [0], color3 : [-14803441], Parameter1 : [4], Parameter2 : [0], Elapse : [1800.000000], bWeather_Percentage : [0]
+Is Fixed Sun? 0

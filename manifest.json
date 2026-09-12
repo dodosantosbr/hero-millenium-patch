@@ -986,9 +986,69 @@
       "size": 1048620
     },
     {
+      "path": "world/DTex/bf_zone001.dxt",
+      "hash": "ff31522b869127d580ee1139eeff688a8fc123b0a95fa798ead27c7a9c6ce797",
+      "size": 1398112
+    },
+    {
+      "path": "world/ENV/bf_zone001.n3sky",
+      "hash": "e89fe51687bff3370a482535503c9017f06880ca59fc930a268d27b679bb077f",
+      "size": 2595
+    },
+    {
+      "path": "world/ENV/bf_zone001.txt",
+      "hash": "0684351d7d2e85c2df5a7fb79e3e79872bbe55fbbc86e9940d3e804acfb532cc",
+      "size": 8406
+    },
+    {
       "path": "world/ENV/bf_zone_sawangchun.n3sky",
       "hash": "2375026d61828ff8da3fe2d7b15d7656f84e0803379c85a5abcecbabef2ced1e",
       "size": 2552
+    },
+    {
+      "path": "world/GameMap/bf_zone001.bgi",
+      "hash": "0da903eef0de43dea3566b2dd201118ab0a46c0e69d2563bf4b2c0b0a6d38ebf",
+      "size": 2158
+    },
+    {
+      "path": "world/GameMap/bf_zone001.cel",
+      "hash": "227f6a6e3d13ccbe5ce14adcec502d6e1a4d3e4b208b980538bb8f7d9848b708",
+      "size": 792598
+    },
+    {
+      "path": "world/GameMap/bf_zone001.flw",
+      "hash": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "size": 4
+    },
+    {
+      "path": "world/GameMap/bf_zone001.gmd",
+      "hash": "130192c04686342eabc7d6aa2444bb8a24cb1c008244081aa33ef2198f0ec934",
+      "size": 84
+    },
+    {
+      "path": "world/GameMap/bf_zone001.gmt",
+      "hash": "059ec3e69b50e040560ab01192ae00dd507f359d709c802168d333f5c7be1c81",
+      "size": 266480
+    },
+    {
+      "path": "world/GameMap/bf_zone001.grs",
+      "hash": "3776a4ecb3b2cb47e547e9c065324e7dbb8c9cb173e75d9f720506c5704a81d1",
+      "size": 273192
+    },
+    {
+      "path": "world/GameMap/bf_zone001.mlo",
+      "hash": "b9c6cc426024e2566769359ff30c7342d6e638c2f4e7f5ef3b152fb443af260a",
+      "size": 976
+    },
+    {
+      "path": "world/GameMap/bf_zone001.opd",
+      "hash": "f9f6d549a16b4503e576b3686767dbe683edfeb64cbf1cf63f74e135013b90b1",
+      "size": 478987
+    },
+    {
+      "path": "world/GameMap/bf_zone001.pod",
+      "hash": "7c9fa136d4413fa6173637e883b6998d32e1d675f88cddff9dcbcf331820f4b8",
+      "size": 8
     },
     {
       "path": "world/GameMap/bf_zone_sawangchun.bgi",
