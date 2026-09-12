@@ -776,6 +776,11 @@
       "size": 252
     },
     {
+      "path": "ui/Evil_island_minimap.DXT",
+      "hash": "a8e8290058b9645e1746345bd12625af0cf3d6c6b744f043e80741b7019c5b86",
+      "size": 393240
+    },
+    {
       "path": "ui/loginbg.DXT",
       "hash": "5b59a4148b251d243a21836a51fe95c5872999ef713fcbe55ab644615bce3593",
       "size": 6424504
@@ -991,6 +996,71 @@
       "size": 1398112
     },
     {
+      "path": "world/DTex/evil_island_01.dxt",
+      "hash": "7a9dcd32ca65c85c4068826ac6d667a95218acef8e02f5b8c3354e002c9ae880",
+      "size": 87406
+    },
+    {
+      "path": "world/DTex/evil_island_02.dxt",
+      "hash": "1d90eba77c06dfd884bb9cf211fe5ac62646b93b3d969c1942ac829b9449e0dd",
+      "size": 87406
+    },
+    {
+      "path": "world/DTex/evil_island_03.dxt",
+      "hash": "80ff1fb5afc96c5d35d7698f6057e0da4b92a6511a884b84b0e3a24434fa03f6",
+      "size": 87406
+    },
+    {
+      "path": "world/DTex/evil_island_04.dxt",
+      "hash": "f5922fb8e7b43d1758dd09da1ae24d8aa148f98ddc40fa72fb3b04f807ee0ce3",
+      "size": 87406
+    },
+    {
+      "path": "world/DTex/evil_island_05.dxt",
+      "hash": "0330a98972e78536664e3c23fea50eb4f6f27510c581984c4d6743a91a6c9533",
+      "size": 87406
+    },
+    {
+      "path": "world/DTex/evil_island_06.dxt",
+      "hash": "1d97e5e246d547bf8c19e716fadb7e250781a475e24d83ac28c93abc4a1d2898",
+      "size": 87406
+    },
+    {
+      "path": "world/DTex/evil_island_layer01.dxt",
+      "hash": "ec0a90034909a30bb773a9d12af130afcbfdbac69e033307b41c8362cd822341",
+      "size": 131099
+    },
+    {
+      "path": "world/DTex/evil_island_layer02.dxt",
+      "hash": "30bb1124a36aac98c0dfbd1b96f836c5411d5243f391af6c3dd58a0a293f7936",
+      "size": 131099
+    },
+    {
+      "path": "world/DTex/evil_island_layer03.dxt",
+      "hash": "b911319ec942035536d3b424963db3bc647df3933352b98d56b93ab22d1247f6",
+      "size": 131099
+    },
+    {
+      "path": "world/DTex/evil_island_layer04.dxt",
+      "hash": "7051e320b07d54e2733ef6846dce3bb40000ac79b4c3796bef178e067d46145c",
+      "size": 131099
+    },
+    {
+      "path": "world/DTex/evil_island_layer05.dxt",
+      "hash": "e4cf7fc9cb6462d282d0d6d097b35b18f2263240267a9cf7c88d216f69d756c6",
+      "size": 131099
+    },
+    {
+      "path": "world/DTex/evil_island_layer06.dxt",
+      "hash": "a3f3ca34bd5adebd725f4e8e3a903850e9e9ff89f44c65a349274dba4bcad08d",
+      "size": 131099
+    },
+    {
+      "path": "world/DTex/evil_island_sw.dxt",
+      "hash": "a8c62b6e469ecfadfbeac3d1fe5c89163b1bc22ab547a4256210204629532879",
+      "size": 524310
+    },
+    {
       "path": "world/ENV/bf_zone001.n3sky",
       "hash": "e89fe51687bff3370a482535503c9017f06880ca59fc930a268d27b679bb077f",
       "size": 2595
@@ -1004,6 +1074,16 @@
       "path": "world/ENV/bf_zone_sawangchun.n3sky",
       "hash": "2375026d61828ff8da3fe2d7b15d7656f84e0803379c85a5abcecbabef2ced1e",
       "size": 2552
+    },
+    {
+      "path": "world/ENV/Evil_island.n3sky",
+      "hash": "00fd185c9ab218403f2cc721a07527aa01b4ab86d825a7e325e428eacd97a9eb",
+      "size": 879
+    },
+    {
+      "path": "world/ENV/Evil_island_01.tga",
+      "hash": "2461c032869de51797512bb061684647862d3f960067c86410f4e225977b3fb8",
+      "size": 262188
     },
     {
       "path": "world/GameMap/bf_zone001.bgi",
@@ -1094,6 +1174,51 @@
       "path": "world/GameMap/bf_zone_sawangchun.pod",
       "hash": "67eb6b2d4b595bc7b22198026ee8d65c7897988deb71c9a75c55bc461c5add95",
       "size": 2105360
+    },
+    {
+      "path": "world/GameMap/Evil_island.bgi",
+      "hash": "a36a1bf85a3d037112c68745316953e0502b7c09f07dc6616c00bf8ef82391b8",
+      "size": 5994
+    },
+    {
+      "path": "world/GameMap/evil_island.cel",
+      "hash": "70f67b5305121bedfdbde5c65f4b3b7a253f8461bc33ad67f84ad13622f2b2af",
+      "size": 792598
+    },
+    {
+      "path": "world/GameMap/Evil_island.flw",
+      "hash": "ec2931df40c5f3b965b61b2298d0a6f2b5153354b586ba6de9cdfcab4300fdd9",
+      "size": 17684
+    },
+    {
+      "path": "world/GameMap/Evil_island.gmd",
+      "hash": "130192c04686342eabc7d6aa2444bb8a24cb1c008244081aa33ef2198f0ec934",
+      "size": 84
+    },
+    {
+      "path": "world/GameMap/Evil_island.gmt",
+      "hash": "f3a0f832f127f07361e8dea78bddec29ddd36ac3466befaf36c5665b559a45c5",
+      "size": 266493
+    },
+    {
+      "path": "world/GameMap/evil_island.grs",
+      "hash": "51c4de0ba783370037db7f4793568caf4fa93b1440fecaa71ded1108d775013b",
+      "size": 264216
+    },
+    {
+      "path": "world/GameMap/Evil_island.mlo",
+      "hash": "6a7183040f67596bf1252973a70cea0bbaf726d7054c3f6b762e0f5148cfb23a",
+      "size": 2272
+    },
+    {
+      "path": "world/GameMap/evil_island.opd",
+      "hash": "56cbf080b742a3451d76282219b0fe10143e6925d605dfedf5769e9815c71633",
+      "size": 862898
+    },
+    {
+      "path": "world/GameMap/evil_island.pod",
+      "hash": "438601b7a8af9a824373490cbea0f33b0543f9b8bb584b7ff3f46d8e549d86ca",
+      "size": 528400
     },
     {
       "path": "world/OBJ/bf_zone_sawangchun_obj_01.n3object",
@@ -1659,6 +1784,391 @@
       "path": "world/OBJ/bf_zone_sawangchun_obj_stone1.n3shape",
       "hash": "4bf5154c945a58430bfc8a32f8d1e7295b4d3206cc07b5641302988f18dc66ea",
       "size": 332
+    },
+    {
+      "path": "world/OBJ/evil_island_01.n3vmesh",
+      "hash": "1dc5ceed03d3035ff92f5ae4290964d89e433dd4b9c0ca07a220a3da44e39e23",
+      "size": 4008
+    },
+    {
+      "path": "world/OBJ/evil_island_01_01.n3pmesh",
+      "hash": "e5f8078ff4ad7c8229f9089715e3a0396d34cf52aba4023c3095747e9224564f",
+      "size": 39661
+    },
+    {
+      "path": "world/OBJ/Evil_island_02.n3object",
+      "hash": "d085a82628b2b3adc2ac80acbd51444da00584fe15ff7365978b70ae54771446",
+      "size": 216
+    },
+    {
+      "path": "world/OBJ/evil_island_02.n3shape",
+      "hash": "adcf2b41655b811f466e2b9425fd2192c2a25acf86306568baa2424c67bb041e",
+      "size": 325
+    },
+    {
+      "path": "world/OBJ/evil_island_02_01.n3pmesh",
+      "hash": "9019ec327f2b431a984a58937a5e47e2864df72df9df235dc62460bd2880c184",
+      "size": 56023
+    },
+    {
+      "path": "world/OBJ/evil_island_03.n3shape",
+      "hash": "bec1840e9bbd18af641c8a4d5e2fc8824aabc53d858829910b30bc9eed7a41ca",
+      "size": 1036
+    },
+    {
+      "path": "world/OBJ/evil_island_03.n3vmesh",
+      "hash": "76e24ddcc4d718621b2b24515f1a8a08a692d9a592fe2544902eda792121a5d4",
+      "size": 3468
+    },
+    {
+      "path": "world/OBJ/evil_island_03_010.n3pmesh",
+      "hash": "949ca10f80dbad530ff6c2d45bc976e4b4e6e70158a8007e48eb70b9640544fb",
+      "size": 50
+    },
+    {
+      "path": "world/OBJ/evil_island_03_04.n3pmesh",
+      "hash": "45ae1b99bea06539204f30f57f4f6786218533dcdd92fc9eb4c2c9799c4117fe",
+      "size": 6041
+    },
+    {
+      "path": "world/OBJ/evil_island_03_05.n3pmesh",
+      "hash": "71eb6220e7b59a5e73d27dd6286a3944d014a06c0601ba735240ddd18ce69420",
+      "size": 3569
+    },
+    {
+      "path": "world/OBJ/evil_island_03_06.n3pmesh",
+      "hash": "df3ed297d01118296bd5cf04c10cb02c905238aac33824e1b3b6657496afbc2b",
+      "size": 21761
+    },
+    {
+      "path": "world/OBJ/evil_island_03_09.n3pmesh",
+      "hash": "bea78a4f0f1324308eb5ce67bdd27b6386aeaa05c8bb64c9c7b1ea081048d1d2",
+      "size": 15057
+    },
+    {
+      "path": "world/OBJ/evil_island_03_2.n3shape",
+      "hash": "c7fd0c6f9b669f917043d1231c42e0aea99b4b4e198cfa56544782dfc94c0260",
+      "size": 518
+    },
+    {
+      "path": "world/OBJ/evil_island_03_2.n3vmesh",
+      "hash": "bbc98096780f634d0b00bc5278834a4462586dc3faf43e03890ca348f61b66ed",
+      "size": 948
+    },
+    {
+      "path": "world/OBJ/evil_island_03_2_01.n3pmesh",
+      "hash": "8fee4069900b4bbdef25edc582d1521c0a85fc8adc99dafcbe43543e76f094af",
+      "size": 3055
+    },
+    {
+      "path": "world/OBJ/evil_island_03_2_02.n3pmesh",
+      "hash": "3c406f454ba3b8e175ea916aaf619d6bf283d47bd01b4e732fd3ecacb33dfe98",
+      "size": 7563
+    },
+    {
+      "path": "world/OBJ/evil_island_04.n3shape",
+      "hash": "42f4eba779346a6cc5a08865ef4070789aff4d600ed05ec62155992b3f2c2943",
+      "size": 884
+    },
+    {
+      "path": "world/OBJ/evil_island_04.n3vmesh",
+      "hash": "5c4b8c557f4dd6a153a6ba5263cb0ea8d3d7798ba80d45125c7172cbfdacb15e",
+      "size": 228
+    },
+    {
+      "path": "world/OBJ/evil_island_04_01.n3pmesh",
+      "hash": "816be70e660e21c22bee1267b673f531fa2806df94a400683dd09bd0529a97e1",
+      "size": 345
+    },
+    {
+      "path": "world/OBJ/evil_island_04_02.n3pmesh",
+      "hash": "e4eddfb2e94eb5f52effff0b421ae0af47eb4c84c10a5c3ca75d6a0a9b3d9977",
+      "size": 345
+    },
+    {
+      "path": "world/OBJ/evil_island_04_03.n3pmesh",
+      "hash": "2f152ac93e41fe912864a1b79ca1056f1eeca3350568da7b38b28b5c5b2e34b2",
+      "size": 205
+    },
+    {
+      "path": "world/OBJ/evil_island_04_05.n3pmesh",
+      "hash": "59a8714ed10a2c7f4a2e724b193c0777c81193c0000ed484a0b1dc4d9ab05201",
+      "size": 5705
+    },
+    {
+      "path": "world/OBJ/evil_island_05.n3shape",
+      "hash": "8a050d39228902df49d0c871d6e1323b422d5a5f745256d1740e8330382ceb25",
+      "size": 884
+    },
+    {
+      "path": "world/OBJ/evil_island_05.n3vmesh",
+      "hash": "b4565b367747f4ed806510a0c5e3e1852bf0a8aeadf34a91816fcff7fe6e569f",
+      "size": 660
+    },
+    {
+      "path": "world/OBJ/evil_island_05_01.n3pmesh",
+      "hash": "241735ae623e910ce246de22b618210d0d9772b8514e04652335dffe8bdb541b",
+      "size": 777
+    },
+    {
+      "path": "world/OBJ/evil_island_05_02.n3pmesh",
+      "hash": "f16409130cf6fe92c3c0e4e047ee3908eb953c2632c833e60b475867c89b4b4a",
+      "size": 777
+    },
+    {
+      "path": "world/OBJ/evil_island_05_03.n3pmesh",
+      "hash": "fba54b4c981e34e8327550fd26342f04bd8c34165dc15d5c554a3bb1f2235c6c",
+      "size": 421
+    },
+    {
+      "path": "world/OBJ/evil_island_05_05.n3pmesh",
+      "hash": "35fb724198644b4985ea5c5f80199471df376bbcad47d7b9a0dc8507ead184b9",
+      "size": 9465
+    },
+    {
+      "path": "world/OBJ/evil_island_06.n3shape",
+      "hash": "6dbdf9792ac65862ceb94aec6ef6931272fa3c29c665824b41db97dc60ebc21c",
+      "size": 667
+    },
+    {
+      "path": "world/OBJ/evil_island_06_01.n3pmesh",
+      "hash": "2457380581f80ad427a6297b348342496bc9b6c7d9a8aa57764691e79b66f78d",
+      "size": 8255
+    },
+    {
+      "path": "world/OBJ/evil_island_06_02.n3pmesh",
+      "hash": "e63250a86591ebf92b04a02427c006390f9db5786b9735cbb9b5c8bd05aeb858",
+      "size": 1885
+    },
+    {
+      "path": "world/OBJ/evil_island_06_03.n3pmesh",
+      "hash": "2dbc99218794a4c1dee233fc28c0cb3304c64f5fe21f826df716cfc1b930fa07",
+      "size": 765
+    },
+    {
+      "path": "world/OBJ/evil_island_07.n3shape",
+      "hash": "dad091d7b24b941da6ae8ae150f79b8937844ada773bf78969e2ffd0d96d8233",
+      "size": 325
+    },
+    {
+      "path": "world/OBJ/evil_island_07.n3vmesh",
+      "hash": "7d90ce658e79ab7f90ed7fd38997bc14a6cd8a7c63c749f67226926e0650ec5a",
+      "size": 588
+    },
+    {
+      "path": "world/OBJ/evil_island_07_01.n3pmesh",
+      "hash": "45ce40b08a494ae419768705d0a2654ba41fe6356409da9807f131c26edf1147",
+      "size": 929
+    },
+    {
+      "path": "world/OBJ/evil_island_08.n3shape",
+      "hash": "dcda4ef4feabb360dd0f1cd7757fd438819212e1fb795f9443aacd959f409e56",
+      "size": 325
+    },
+    {
+      "path": "world/OBJ/evil_island_08.n3vmesh",
+      "hash": "7acd8a39b59f92785df2ad420eca98c2402a389782530d6993fdcddaded35ec1",
+      "size": 444
+    },
+    {
+      "path": "world/OBJ/evil_island_08_01.n3pmesh",
+      "hash": "7f6429169840c6523ba3a9c0aa4f11f0984120848ff0bed05f52dffec93d64d4",
+      "size": 457
+    },
+    {
+      "path": "world/OBJ/evil_island_09.n3shape",
+      "hash": "484d3cc37403f113a84b7620cd4f3ec3f2dc727b3f3ed65b36d95527f8aee907",
+      "size": 325
+    },
+    {
+      "path": "world/OBJ/evil_island_09.n3vmesh",
+      "hash": "f2d7615a25e66a17933bc0c5a53e2430e7426c0791d84317996d25198c38cf1c",
+      "size": 1020
+    },
+    {
+      "path": "world/OBJ/evil_island_09_01.n3pmesh",
+      "hash": "ad5df9e721032fb5442c08e6d3cbdb45f4c277d93bf0565d939370f5e023a4df",
+      "size": 7413
+    },
+    {
+      "path": "world/OBJ/evil_island_10.n3shape",
+      "hash": "ac8c4ad777dc89cadd6e6831d538a99db77a340c66af4047533a1acb1cb49f28",
+      "size": 325
+    },
+    {
+      "path": "world/OBJ/evil_island_10.n3vmesh",
+      "hash": "af077946fdaafdffb16636addff59db82cab2ae57f902f5e0c9ce93bac8fef04",
+      "size": 1740
+    },
+    {
+      "path": "world/OBJ/evil_island_10_01.n3pmesh",
+      "hash": "c3791f93e00f35de0103514b92c71ce133f2d1abff2c6c504ba2d089a2b53269",
+      "size": 4741
+    },
+    {
+      "path": "world/OBJ/evil_island_11.n3shape",
+      "hash": "f13e6c47c88d5d1306208e527b26271002907931ab894b405ce2f8298eb4b127",
+      "size": 293
+    },
+    {
+      "path": "world/OBJ/evil_island_11_01.n3pmesh",
+      "hash": "2f4300d2fc42a89a49c32eb0b89de020148477453bc8613844996be710e52f7d",
+      "size": 1425
+    },
+    {
+      "path": "world/OBJ/evil_island_12.n3pmesh",
+      "hash": "51f4730583e3b61890309641f7d049cf8759f80f045de736e0cf8d55d9b2b910",
+      "size": 1218
+    },
+    {
+      "path": "world/OBJ/evil_island_12.n3shape",
+      "hash": "d62669425e2acc6f9aa66cced44e7442de7083645cedd8ccfed3527b5ac470f0",
+      "size": 290
+    },
+    {
+      "path": "world/OBJ/evil_island_13.n3object",
+      "hash": "84058223b3568908cb8bf0692877a745e3148a451b0f4e15a66fa4ccb002a5af",
+      "size": 180
+    },
+    {
+      "path": "world/OBJ/evil_island_13.n3shape",
+      "hash": "040fb81a824d26360f29f63e890573330e4c2b94b9271ffa2d27990534c6ad9a",
+      "size": 322
+    },
+    {
+      "path": "world/OBJ/evil_island_13.n3vmesh",
+      "hash": "3edd4901116c21a99256e50d5a5b278c255172ca6d53730298b1c9cb6c1b440c",
+      "size": 1812
+    },
+    {
+      "path": "world/OBJ/evil_island_13_01.n3pmesh",
+      "hash": "d2e3522d410ac2a81d9b58a35254267f0462d990546a6052cbf3a7d1f30b49b8",
+      "size": 23029
+    },
+    {
+      "path": "world/OBJ/evil_island_14.n3shape",
+      "hash": "5fe7c465cc8e1307f98cb5ff8112d1f78bd7c7a7455fbc8750f20714633e86eb",
+      "size": 322
+    },
+    {
+      "path": "world/OBJ/evil_island_14.n3vmesh",
+      "hash": "27ba8ca17aae05f41b8074843591922cd7e61cc83f0c040b8c77abc9ca149c4e",
+      "size": 372
+    },
+    {
+      "path": "world/OBJ/evil_island_14_01.n3pmesh",
+      "hash": "2f23cc841b75761a6c63ddd5e720d3c3536eec207a3649560e2b36a9a3188a3d",
+      "size": 16053
+    },
+    {
+      "path": "world/OBJ/evil_island_15.n3object",
+      "hash": "9d6959a3483336083562cb8fe21a63b707ad7baeab527172b909fcab502ba069",
+      "size": 180
+    },
+    {
+      "path": "world/OBJ/evil_island_15.n3shape",
+      "hash": "6ddab366576b3a7c33cc0b02169af9ca78aa5286efd4b6b7abf39aeedd732212",
+      "size": 322
+    },
+    {
+      "path": "world/OBJ/evil_island_15.n3vmesh",
+      "hash": "5d569a95774a9bc7d1c486f14a4539947f2b5864c39dc09d802228c125b48dd8",
+      "size": 1740
+    },
+    {
+      "path": "world/OBJ/evil_island_15_01.n3pmesh",
+      "hash": "1dba8dc79acca748998cb9768ee07dc2046f51f80e368e34feb99a6aa037bf88",
+      "size": 25065
+    },
+    {
+      "path": "world/OBJ/evil_island_15_2.n3shape",
+      "hash": "54bc19379297619999aec3886b9a0536c016be5eb7d129e587ed0c5d7a2a31b4",
+      "size": 294
+    },
+    {
+      "path": "world/OBJ/evil_island_15_2_01.n3pmesh",
+      "hash": "7eabf6e141bb97d70da8bf0e2bbda40a7170b9da3efd1eac739da91d775fdf08",
+      "size": 25131
+    },
+    {
+      "path": "world/OBJ/evil_island_fire.n3object",
+      "hash": "9aefbf9ca6c43acd945f2d2c2c9f649c3251549e97b508e49823b8e7d877de55",
+      "size": 184
+    },
+    {
+      "path": "world/TXTR/evil_island_01.dxt",
+      "hash": "3ec682c0ca309b5ea912137e770ea0ab266bc77eff400bb3e96a1b4466de93e1",
+      "size": 349550
+    },
+    {
+      "path": "world/TXTR/evil_island_02_01.dxt",
+      "hash": "40459a48976946afdd381b269890e8cff953ce4d9be70f56c103b164533c1dc5",
+      "size": 87415
+    },
+    {
+      "path": "world/TXTR/evil_island_03_01.dxt",
+      "hash": "29a1e9ccb4fd349e7e78ce11efbab18ab5c6fb4d129bda45a2a19dfc18ae0415",
+      "size": 349543
+    },
+    {
+      "path": "world/TXTR/evil_island_03_02.dxt",
+      "hash": "a13fcf19ecabb52063db97caa18def8c4754e2dc3d94cc357e9cf5ccd282ec22",
+      "size": 349543
+    },
+    {
+      "path": "world/TXTR/evil_island_04_01.dxt",
+      "hash": "ab9c884b1187d8f4a3fd0e4a9ac3cfce39e9c4d15508257d1465a7070e136d14",
+      "size": 349543
+    },
+    {
+      "path": "world/TXTR/evil_island_04_02.dxt",
+      "hash": "141fa94dcb3ed6dbb45eb74c307c144f0402cf1f6c33403cae1a56e9d3d134a6",
+      "size": 87399
+    },
+    {
+      "path": "world/TXTR/evil_island_06_01.dxt",
+      "hash": "d921bed30df822ea5e077b434e57d8427ea99e2740959bdd327735e7cb64b515",
+      "size": 87409
+    },
+    {
+      "path": "world/TXTR/evil_island_06_02.dxt",
+      "hash": "7e604ed3e2d556ff2d5f5500f9184a1dbdf0d993daa5d9d3903bcb49d2355fa6",
+      "size": 131097
+    },
+    {
+      "path": "world/TXTR/evil_island_06_03.dxt",
+      "hash": "9da6645bdc84f185f4c5a7ef793826caca9f6384116ef0ed6577daa8a2229986",
+      "size": 131097
+    },
+    {
+      "path": "world/TXTR/evil_island_09_01.dxt",
+      "hash": "8dfd0c3b4ce33f674d07751f9e5d9d34c6b3eee82674098045eca769c0354693",
+      "size": 21862
+    },
+    {
+      "path": "world/TXTR/evil_island_09_02.dxt",
+      "hash": "4218e8a519512d2f65e380a5846dfa1d0dda82484ad285f872893281ba3a903a",
+      "size": 131086
+    },
+    {
+      "path": "world/TXTR/evil_island_12_01.dxt",
+      "hash": "facbaf21e44bbd68cc483c367f230e724c04c3f1deef4299d250e2fa02e8ef63",
+      "size": 131097
+    },
+    {
+      "path": "world/TXTR/evil_island_13.dxt",
+      "hash": "7cf37679246ca2879c7410114449cf684182379876da45a8636af40c605ad824",
+      "size": 131094
+    },
+    {
+      "path": "world/TXTR/evil_island_14.dxt",
+      "hash": "cd2dd21205867d656f6daf48d991c56538da41ae4c5be49fe92364702167ac26",
+      "size": 349542
+    },
+    {
+      "path": "world/TXTR/evil_island_15.dxt",
+      "hash": "6b2c01bb7b3fff5262d08ff27b9dfd0a82296c7a798f38b54e1ddf7def8bda6e",
+      "size": 87399
     }
   ]
 }
