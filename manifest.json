@@ -101,8 +101,8 @@
       "size": 72
     },
     {
-      "path": "data/tb_dropitem.tbl",
-      "hash": "05729cb6c9de8a229cbefa82fb6b0d8b447421a831f9c26f54ff529a80523208",
+      "path": "data/tb_DropItem.tbl",
+      "hash": "eaa123b63e8875e7718a2a42809cc9d7f3949b843a0bea94344beb0a42a4849d",
       "size": 436272
     },
     {
@@ -257,8 +257,8 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "95637c43406914d47636cdcc8ab98564f2616726cdc74c1f0a428a70f4f504bf",
-      "size": 11491680
+      "hash": "f92a234160f1ada8a5494973ef16e31feb1ddb767e64c3d8e8546f0b0f32aa4c",
+      "size": 11491714
     },
     {
       "path": "data/tb_ItemTable_NPC.tbl",
@@ -312,7 +312,7 @@
     },
     {
       "path": "data/tb_NewMunpaData.tbl",
-      "hash": "15792789194d9f23560bda287ae346c9ae641b0eed406b27087bf0915a1fab48",
+      "hash": "554b319b5f5555f35793bffc8743dbefb0007e624b19c27375972e98462249da",
       "size": 356288
     },
     {
