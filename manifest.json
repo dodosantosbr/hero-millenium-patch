@@ -57,8 +57,8 @@
     },
     {
       "path": "data/tb_cashshop.tbl",
-      "hash": "a18d6aa80cd3e57e6628f265429e5c26ef2fd645187c1d019be9fb31657a4ca3",
-      "size": 23554
+      "hash": "6f3e01283c755357a6ee533e6db701b8883a40070cbbf6073fd6fd903940511e",
+      "size": 23525
     },
     {
       "path": "data/tb_Chamhap.tbl",
@@ -237,8 +237,8 @@
     },
     {
       "path": "data/tb_ItemMakingPI.tbl",
-      "hash": "fe1e14ec8a4e2c4d1a01776abfb10029386156759d02fc354aca0040ea9d5179",
-      "size": 3440
+      "hash": "de3bc891a5c99f428a4b31eef99ba48e5a67d75f891b6306df3eb19bbc81dae7",
+      "size": 4196
     },
     {
       "path": "data/tb_ItemMelting.tbl",
@@ -257,8 +257,8 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "f92a234160f1ada8a5494973ef16e31feb1ddb767e64c3d8e8546f0b0f32aa4c",
-      "size": 11491714
+      "hash": "1b0c696a5ce3558f8cbe9566b398b3b80b032dcaefcb2f4bf8184c23ea11078a",
+      "size": 11491700
     },
     {
       "path": "data/tb_ItemTable_NPC.tbl",
@@ -377,8 +377,8 @@
     },
     {
       "path": "data/tb_production.tbl",
-      "hash": "38722c044c27857208389cf44367b8f65e493a0bbc1499c5828908ad416b36a0",
-      "size": 12717
+      "hash": "ace4193a62b9ff8c674b0ccc514e744c48394b0a5fbe8baf4253d8a23375b8bc",
+      "size": 13145
     },
     {
       "path": "data/tb_pupil_point.tbl",
