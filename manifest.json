@@ -11,6 +11,11 @@
       "size": 62
     },
     {
+      "path": "data/banname.hrw",
+      "hash": "48bd8ff38adc4d4f9f9477e2f8d489573a22867166b1a2c5a97ed81293be3d2b",
+      "size": 1765
+    },
+    {
       "path": "data/FreeGift.tbl",
       "hash": "83913e34eaf4af4e4da8fb33bc75036f2547b1c279514d1a27b9b2bb92043318",
       "size": 56
@@ -57,13 +62,13 @@
     },
     {
       "path": "data/tb_buff_infection.tbl",
-      "hash": "b32da3757a6c3bd6e3741389cb3866f11031ec8690efe08b5a324bc8e08a3f8e",
-      "size": 832891
+      "hash": "3e440c88fc68bbbb5763f57c9cb0d8d1356751639cfd66215c191d0736801977",
+      "size": 832882
     },
     {
       "path": "data/tb_cashshop.tbl",
-      "hash": "4559b361e43b7f564e1783cae8a1defba931aba62872e00ecec3524e07c0982a",
-      "size": 24645
+      "hash": "c6b4e8252e171b0833d45005322cfeb5590502fb85b42a3b72ced1d3f1d6faa3",
+      "size": 24657
     },
     {
       "path": "data/tb_cashshop_1.tbl",
@@ -232,8 +237,8 @@
     },
     {
       "path": "data/tb_ItemMaking.tbl",
-      "hash": "099b60803005b1e96ac9b544dd6e025cabcbfae459256306abd3dc5635834304",
-      "size": 45972
+      "hash": "2836b36db0128ffb8674d4fb1162fd2ed24642c8e320b8111b8c68a4e22fee10",
+      "size": 18882
     },
     {
       "path": "data/tb_ItemMakingEx.tbl",
@@ -267,8 +272,8 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "4bb5f5765cc40ce9aa4caa64c0dbb74e0aa9489963ef5e8e341f0e1a6feab4bc",
-      "size": 11657232
+      "hash": "80b6cd4ade31066fd4a67ecf21da53e28bdf3f1a6106d5b9cd4d748c9544ad82",
+      "size": 11657692
     },
     {
       "path": "data/tb_ItemTable_Normal_bckp.tbl",
@@ -327,7 +332,7 @@
     },
     {
       "path": "data/tb_NewMunpaData.tbl",
-      "hash": "437aba7a4fd644c56d9f2e199b6ddfaf42b40912f81091bbafe220e23f003f4d",
+      "hash": "f048308cc86a5b5e270df700ddaf0a5b7d5c0e3fcb97e565f1f9257ccd047c84",
       "size": 356288
     },
     {
@@ -352,8 +357,8 @@
     },
     {
       "path": "data/tb_NPC_Menu.tbl",
-      "hash": "ee7e156e6944ad8d867dd51f65c221eb8a50e000bc463f1db3ab520d9ff56971",
-      "size": 76812
+      "hash": "1ed29d1b2ea8b407c99dec3ac92b450a1271f0e5ddbaa42c208bc7067f58d01c",
+      "size": 76790
     },
     {
       "path": "data/tb_NPC_Script.tbl",
@@ -749,6 +754,21 @@
       "path": "Emblem/39.bmp",
       "hash": "3ef48443e27763ebc29a929863e624b55c2e12feb3fcc95d7b627b8af39aae87",
       "size": 824
+    },
+    {
+      "path": "icon/classicbig.dxt",
+      "hash": "6ede52ac47f0b4e551dac32167f49db3603fab875c3b23cad16b75110bbfc7ee",
+      "size": 1398104
+    },
+    {
+      "path": "ui/loginbg.DXT",
+      "hash": "fd9b30e1a89e9d035290550f90528e92c4efa8dd8fe235e56cad7321de787888",
+      "size": 6424656
+    },
+    {
+      "path": "ui/DXT/loginbg.DXT",
+      "hash": "fd9b30e1a89e9d035290550f90528e92c4efa8dd8fe235e56cad7321de787888",
+      "size": 6424656
     }
   ]
 }
