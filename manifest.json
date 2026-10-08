@@ -12,8 +12,8 @@
     },
     {
       "path": "data/banname.hrw",
-      "hash": "48bd8ff38adc4d4f9f9477e2f8d489573a22867166b1a2c5a97ed81293be3d2b",
-      "size": 1765
+      "hash": "1956ce47ed11df222fb014e0b762e37f173c2d25ce9f1d462c38bb3b817e8987",
+      "size": 71
     },
     {
       "path": "data/FreeGift.tbl",
@@ -67,8 +67,8 @@
     },
     {
       "path": "data/tb_cashshop.tbl",
-      "hash": "c6b4e8252e171b0833d45005322cfeb5590502fb85b42a3b72ced1d3f1d6faa3",
-      "size": 24657
+      "hash": "c04acb610957af9a9e4bf2124a2cf41cb1dcdb42ea8d1887c555d424785d5d35",
+      "size": 25098
     },
     {
       "path": "data/tb_cashshop_1.tbl",
@@ -272,7 +272,7 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "80b6cd4ade31066fd4a67ecf21da53e28bdf3f1a6106d5b9cd4d748c9544ad82",
+      "hash": "0d5488b8e6d7c7ab68967b540555f4646d0d3792e824b36a104187d40cd96f3d",
       "size": 11657692
     },
     {
@@ -462,13 +462,13 @@
     },
     {
       "path": "data/tb_ShopTable.tbl",
-      "hash": "7de6628a0b420146f307be575475e45f8e461e424dc6b3d0d9a31d25facfd544",
+      "hash": "bf79d3e3ec0117f6123f8d89831f54b7c8feb3cb2c22bb19a7853b3c83cc807c",
       "size": 8496
     },
     {
       "path": "data/tb_ShopTable_Item.tbl",
-      "hash": "9b32cdccb8817f85e58f936a53abba2860146e3fd23dd69c14cd27b827a0dc30",
-      "size": 2741
+      "hash": "48ccef3585cc648bda9a9f9de716da842bef3c62db15cff5129f11b33e1f0499",
+      "size": 2729
     },
     {
       "path": "data/tb_Shop_Table_Pet.tbl",
