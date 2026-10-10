@@ -252,8 +252,8 @@
     },
     {
       "path": "data/tb_ItemMakingPI.tbl",
-      "hash": "b0e7b7e7ecdab2145103fefb554ba0c69f726a4b3c6bcacf22812555b3f8a41b",
-      "size": 92
+      "hash": "0b3c2cc05e1642f2393348027df61811e34384095b0bb470710133bbb91f52ad",
+      "size": 1604
     },
     {
       "path": "data/tb_ItemMelting.tbl",
@@ -272,7 +272,7 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "0d5488b8e6d7c7ab68967b540555f4646d0d3792e824b36a104187d40cd96f3d",
+      "hash": "a89f06619c8cdcda50c8cc82ad519985d5d0ecfa962942fbe9420680bf418fb1",
       "size": 11657692
     },
     {
