@@ -272,8 +272,8 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "a89f06619c8cdcda50c8cc82ad519985d5d0ecfa962942fbe9420680bf418fb1",
-      "size": 11657692
+      "hash": "5f55828fd850de66aee5a157edef87c0d05f5587a22d859fae2c447be199681b",
+      "size": 11657603
     },
     {
       "path": "data/tb_ItemTable_Normal_bckp.tbl",
@@ -332,7 +332,7 @@
     },
     {
       "path": "data/tb_NewMunpaData.tbl",
-      "hash": "f048308cc86a5b5e270df700ddaf0a5b7d5c0e3fcb97e565f1f9257ccd047c84",
+      "hash": "5c17afaf9dc87397a9a0bb443d005dc4a31bcb387c15c9feb01a39f3ae756ea4",
       "size": 356288
     },
     {
@@ -347,8 +347,8 @@
     },
     {
       "path": "data/tb_NPCTable.tbl",
-      "hash": "cd18310f3debe02eb11cf399a04fb6fdc9ae68cbae82a166e6be189285e65832",
-      "size": 1558437
+      "hash": "6f7455163d0a26e0e9ed117ec0f200c2b539de07231835c42b56e51cce982ae4",
+      "size": 1558442
     },
     {
       "path": "data/tb_NPCTable_1.tbl",
