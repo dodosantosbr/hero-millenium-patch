@@ -2,13 +2,23 @@
   "files": [
     {
       "path": "Hero.exe",
-      "hash": "92703390d1f71708332fb3bf444018304e94f8ab3e793df7f5da10d0a0437d2d",
-      "size": 5530488
+      "hash": "7068cad1da8d0867f87693a98bbddd4cd170753387b7601690f63d7a80f527ad",
+      "size": 5520384
     },
     {
       "path": "Server.ini",
       "hash": "d0e0afc68222b95a87e5f6ca770e4a64c3c6148d36db34b64e4ce16e49974e8d",
       "size": 62
+    },
+    {
+      "path": "character/Chr/market2.n3chr",
+      "hash": "5cb3c25090760984e5dbbc3530cdd8945889d30e186c301b3b292b7da9d21b15",
+      "size": 218
+    },
+    {
+      "path": "character/Chr/market2.n3cpart",
+      "hash": "a97d55e3f6a84a604ef5706ee1040609927a41f114c83ae30a505957bb796f44",
+      "size": 245
     },
     {
       "path": "data/banname.hrw",
