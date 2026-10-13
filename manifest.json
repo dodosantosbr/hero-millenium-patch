@@ -6,11 +6,6 @@
       "size": 5520384
     },
     {
-      "path": "Server.ini",
-      "hash": "d0e0afc68222b95a87e5f6ca770e4a64c3c6148d36db34b64e4ce16e49974e8d",
-      "size": 62
-    },
-    {
       "path": "character/Chr/market2.n3chr",
       "hash": "5cb3c25090760984e5dbbc3530cdd8945889d30e186c301b3b292b7da9d21b15",
       "size": 218
