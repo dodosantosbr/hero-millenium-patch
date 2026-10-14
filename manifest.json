@@ -2,8 +2,8 @@
   "files": [
     {
       "path": "Hero.exe",
-      "hash": "fe88443857805dc5190950b233c5d52ca6ce512ea1f2fd546ce4d397574040fc",
-      "size": 5520384
+      "hash": "3ccb2771429023460271b77de611cd2f299fba6da71dc1be26025e2d6fbac6d3",
+      "size": 5524480
     },
     {
       "path": "character/Chr/market2.n3chr",
@@ -564,6 +564,11 @@
       "path": "ui/loginbg.DXT",
       "hash": "fd9b30e1a89e9d035290550f90528e92c4efa8dd8fe235e56cad7321de787888",
       "size": 6424656
+    },
+    {
+      "path": "ui/ui_calculation.uif",
+      "hash": "122bc14b699e6950532cbd548ff39bd5848ac2a707e61ac906031447ae2457ae",
+      "size": 9004
     },
     {
       "path": "ui/ui_infomain_left.uif",
