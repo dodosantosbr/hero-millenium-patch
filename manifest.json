@@ -2,7 +2,7 @@
   "files": [
     {
       "path": "Hero.exe",
-      "hash": "7068cad1da8d0867f87693a98bbddd4cd170753387b7601690f63d7a80f527ad",
+      "hash": "fe88443857805dc5190950b233c5d52ca6ce512ea1f2fd546ce4d397574040fc",
       "size": 5520384
     },
     {
@@ -72,8 +72,8 @@
     },
     {
       "path": "data/tb_cashshop.tbl",
-      "hash": "c04acb610957af9a9e4bf2124a2cf41cb1dcdb42ea8d1887c555d424785d5d35",
-      "size": 25098
+      "hash": "46f2c8e054b3331931a551fad176c11b0caae7da398a5885e8554e17303ab316",
+      "size": 34361
     },
     {
       "path": "data/tb_Chamhap.tbl",
@@ -272,8 +272,8 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "ba8615f568481a12968395395ae9d19b796486d807bbeb31a94baa18eb23e00e",
-      "size": 11657603
+      "hash": "6da2a7f4a350fccf285bf9d7e630b8fca3b5b54e67aa676bb9fc2a1e0d46d7ff",
+      "size": 11657477
     },
     {
       "path": "data/tb_ItemTable_Normal_bckp.tbl",
