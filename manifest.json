@@ -277,7 +277,7 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "5f55828fd850de66aee5a157edef87c0d05f5587a22d859fae2c447be199681b",
+      "hash": "ba8615f568481a12968395395ae9d19b796486d807bbeb31a94baa18eb23e00e",
       "size": 11657603
     },
     {
@@ -564,6 +564,16 @@
       "path": "data/tb_ZoneTable.tbl",
       "hash": "328a19f87c3ba8b891c0531b04b6fab53d7c4ffa2b2b436ab6cad1f20ce55294",
       "size": 81081
+    },
+    {
+      "path": "ui/loginbg.DXT",
+      "hash": "fd9b30e1a89e9d035290550f90528e92c4efa8dd8fe235e56cad7321de787888",
+      "size": 6424656
+    },
+    {
+      "path": "ui/DXT/loginbg.DXT",
+      "hash": "fd9b30e1a89e9d035290550f90528e92c4efa8dd8fe235e56cad7321de787888",
+      "size": 6424656
     }
   ]
 }
