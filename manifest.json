@@ -566,9 +566,24 @@
       "size": 6424656
     },
     {
+      "path": "ui/ui_infomain_left.uif",
+      "hash": "5ba4af2a61038ec3d93ad332ad17092c6ce2d9919acf580b885b763388003bbb",
+      "size": 5752
+    },
+    {
+      "path": "ui/ui_infomain_right.uif",
+      "hash": "4eb2f1a52894c915dafe5c6c6d0ccd0ba7e2be1f30ac9bf1af8afae60f04029d",
+      "size": 5752
+    },
+    {
       "path": "ui/DXT/loginbg.DXT",
       "hash": "fd9b30e1a89e9d035290550f90528e92c4efa8dd8fe235e56cad7321de787888",
       "size": 6424656
+    },
+    {
+      "path": "ui/DXT/ui_botton_1.tga",
+      "hash": "d30ea4293d9161cea32f8b8b629c9573aa80dd048100c6416bf432dc84a5aabe",
+      "size": 1048620
     }
   ]
 }
