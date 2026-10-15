@@ -272,7 +272,7 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "8b3b86522c132fa6a8d2cd721b5218a7fbd312acd1b5f5e288b03c3ec7745c65",
+      "hash": "b8ebffaf6edfd1b2a4a98d472c8b3bddb4d2f2ec448714691bbaad49cf7b8dee",
       "size": 11657206
     },
     {
@@ -402,8 +402,8 @@
     },
     {
       "path": "data/tb_production.tbl",
-      "hash": "80c4bc124f739bde8d68bd801e377e4f94e70847b44b2776224ca76efa91c1b2",
-      "size": 10754
+      "hash": "28de3ab6c6bd81799e1fd026e3e399ee460007db8f4e74fdffb35b38ccba095e",
+      "size": 9950
     },
     {
       "path": "data/tb_pupil_point.tbl",
