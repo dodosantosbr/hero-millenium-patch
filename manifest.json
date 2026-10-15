@@ -72,8 +72,8 @@
     },
     {
       "path": "data/tb_cashshop.tbl",
-      "hash": "5a544a1ac1d8a74b18d2710aa931c1ac9a0017c05cd61ab26139575f56e1a780",
-      "size": 33996
+      "hash": "a6ca05ea23cc581a22d4c54995032feb82a48f2a38f231a73951fb418841a36f",
+      "size": 34491
     },
     {
       "path": "data/tb_Chamhap.tbl",
@@ -272,7 +272,7 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "bf33cb60eae6720b7ffe65811e3ddc43035eaca9e6f1f1998a4241e35761e5f1",
+      "hash": "8b3b86522c132fa6a8d2cd721b5218a7fbd312acd1b5f5e288b03c3ec7745c65",
       "size": 11657206
     },
     {
@@ -402,8 +402,8 @@
     },
     {
       "path": "data/tb_production.tbl",
-      "hash": "76916770e2d0ea7f6b4935e8e2662140c1467d3b749bcdbbebe6e009c5b8acbc",
-      "size": 12471
+      "hash": "21070fc1bfb7c68d6fcc730fbd717148e038b62ae279b17c7faa5a9a1d7ce8ae",
+      "size": 9758
     },
     {
       "path": "data/tb_pupil_point.tbl",
@@ -462,7 +462,7 @@
     },
     {
       "path": "data/tb_ShopTable.tbl",
-      "hash": "bf79d3e3ec0117f6123f8d89831f54b7c8feb3cb2c22bb19a7853b3c83cc807c",
+      "hash": "c8410c1b7e4be6872a7da8ca20bd83d240812e16fefdd60b12b53989c7674b68",
       "size": 8496
     },
     {
