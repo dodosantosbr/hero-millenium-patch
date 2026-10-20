@@ -571,6 +571,16 @@
       "size": 6424656
     },
     {
+      "path": "ui/selectentity.uif",
+      "hash": "9fd038634f4e745a795ac2ca86a1f16d0ab30e6c266dc1fef90cca8d745d34fa",
+      "size": 1011
+    },
+    {
+      "path": "ui/selectentityhp.dxt",
+      "hash": "895e68872048078302acd983e222ae11669f0da67576871cd483e1b91b95550a",
+      "size": 98389
+    },
+    {
       "path": "ui/ui_calculation.uif",
       "hash": "122bc14b699e6950532cbd548ff39bd5848ac2a707e61ac906031447ae2457ae",
       "size": 9004
