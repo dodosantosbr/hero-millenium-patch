@@ -332,8 +332,8 @@
     },
     {
       "path": "data/tb_NewMunpaData.tbl",
-      "hash": "5c17afaf9dc87397a9a0bb443d005dc4a31bcb387c15c9feb01a39f3ae756ea4",
-      "size": 356288
+      "hash": "4d5b90e60816af39bef0c4100abd2cc1e136eb073f16e153d5f31637b64086cc",
+      "size": 357900
     },
     {
       "path": "data/tb_notice.tbl",
@@ -347,7 +347,7 @@
     },
     {
       "path": "data/tb_NPCTable.tbl",
-      "hash": "6f7455163d0a26e0e9ed117ec0f200c2b539de07231835c42b56e51cce982ae4",
+      "hash": "923625f2dc787eaf0d8b09323e9a0a592eafc5fb2167c48334583d15359a5381",
       "size": 1558442
     },
     {
