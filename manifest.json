@@ -2,8 +2,13 @@
   "files": [
     {
       "path": "Hero.exe",
-      "hash": "cc00f48ea3ea445c6f74711b597134cc2fc8d60c6c4acfd6e20a3edb5c4793f9",
-      "size": 5532672
+      "hash": "3958305b52bfddeae3e13294732d2049257dd9227e3bf0ff6e8263510b76c09c",
+      "size": 5533184
+    },
+    {
+      "path": "presence.exe",
+      "hash": "af93ec52d31dc61cb6f2ef2db3ac75aada8de74272f243edb42219d181d23ba4",
+      "size": 10276835
     },
     {
       "path": "character/Chr/market2.n3chr",
