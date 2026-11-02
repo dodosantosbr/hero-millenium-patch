@@ -122,7 +122,7 @@
     },
     {
       "path": "data/tb_DropItem.tbl",
-      "hash": "2c81b5d71ea0d1df010c468290a1f7ed82c81396ba8067bd09b10eaa37169ef7",
+      "hash": "27ce0173f96bc849eee46eb46223ace34bb373d74b40a1d66cea5fec738e1173",
       "size": 436528
     },
     {
@@ -257,8 +257,8 @@
     },
     {
       "path": "data/tb_ItemMakingPI.tbl",
-      "hash": "f3047d632561394deca47bf1be6ffad9e3df1426f53190aa7d338989c84a41eb",
-      "size": 1820
+      "hash": "d012e65fde43691648db5ef25d0c34739f8f66cb75bf5091b9a6b0da3aa7d932",
+      "size": 3872
     },
     {
       "path": "data/tb_ItemMelting.tbl",
@@ -277,8 +277,8 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "483382b6a2b05d456a738cc488500493c1662dc20c98cfcee24131b45ce8b414",
-      "size": 11664938
+      "hash": "da2e18ef130ae71c2fe40c69a35195a76652fed8587dee1c0b4067b14c1b9367",
+      "size": 11664937
     },
     {
       "path": "data/tb_ItemTable_Normal_bckp.tbl",
