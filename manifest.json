@@ -277,8 +277,8 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "eacd513e0b3f93bad210c9788af599b9d0f7445fe1b650d977131411054fb90c",
-      "size": 11664917
+      "hash": "0c02516651433c3fea71455744bed768e5441009fdf017f8d0bcf03b5ca0bc2d",
+      "size": 11664909
     },
     {
       "path": "data/tb_ItemTable_Normal_bckp.tbl",
@@ -337,8 +337,8 @@
     },
     {
       "path": "data/tb_NewMunpaData.tbl",
-      "hash": "4d5b90e60816af39bef0c4100abd2cc1e136eb073f16e153d5f31637b64086cc",
-      "size": 357900
+      "hash": "959a2c6e80f8ed49ae04cc639109162b71b82ecacb77844e7560acc12af826bc",
+      "size": 358706
     },
     {
       "path": "data/tb_notice.tbl",
@@ -407,8 +407,8 @@
     },
     {
       "path": "data/tb_production.tbl",
-      "hash": "28de3ab6c6bd81799e1fd026e3e399ee460007db8f4e74fdffb35b38ccba095e",
-      "size": 9950
+      "hash": "4c4cc0d9361b6313a3fb2200b83dc689c0bb9f95477241a873f9ca0e3439fadf",
+      "size": 10515
     },
     {
       "path": "data/tb_pupil_point.tbl",
@@ -604,6 +604,11 @@
       "path": "ui/ui_infomain_right.uif",
       "hash": "4eb2f1a52894c915dafe5c6c6d0ccd0ba7e2be1f30ac9bf1af8afae60f04029d",
       "size": 5752
+    },
+    {
+      "path": "ui/ui_minimap.uif",
+      "hash": "57c42f0915252a0778e18fe58d1f1da34bf857a85fe2c40dca30048f43217816",
+      "size": 875
     },
     {
       "path": "ui/DXT/loginbg.DXT",
