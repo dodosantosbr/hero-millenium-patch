@@ -277,8 +277,8 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "da2e18ef130ae71c2fe40c69a35195a76652fed8587dee1c0b4067b14c1b9367",
-      "size": 11664937
+      "hash": "eacd513e0b3f93bad210c9788af599b9d0f7445fe1b650d977131411054fb90c",
+      "size": 11664917
     },
     {
       "path": "data/tb_ItemTable_Normal_bckp.tbl",
@@ -362,8 +362,8 @@
     },
     {
       "path": "data/tb_NPC_Menu.tbl",
-      "hash": "1ed29d1b2ea8b407c99dec3ac92b450a1271f0e5ddbaa42c208bc7067f58d01c",
-      "size": 76790
+      "hash": "65d4a5a3d1b83cb6b699beda047e588488e65c151e7eaa4a6eaffc6afb7fe9d9",
+      "size": 76751
     },
     {
       "path": "data/tb_NPC_Script.tbl",
