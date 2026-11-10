@@ -2,7 +2,7 @@
   "files": [
     {
       "path": "Hero.exe",
-      "hash": "3958305b52bfddeae3e13294732d2049257dd9227e3bf0ff6e8263510b76c09c",
+      "hash": "93b6edaaa79314e6eba45a4bdb759f2ed094a75337475c099444a2e3fe8fdf7d",
       "size": 5533184
     },
     {
@@ -337,7 +337,7 @@
     },
     {
       "path": "data/tb_NewMunpaData.tbl",
-      "hash": "959a2c6e80f8ed49ae04cc639109162b71b82ecacb77844e7560acc12af826bc",
+      "hash": "ad148a0a63b36138a10e7ea64f41ba160e0207464673f8d94747b6600562eed9",
       "size": 358706
     },
     {
