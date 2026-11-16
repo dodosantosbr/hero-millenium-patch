@@ -257,8 +257,8 @@
     },
     {
       "path": "data/tb_ItemMakingPI.tbl",
-      "hash": "e29d62748167368da3207af74b57e73071cd46fd30d855909a766bf7b27d2495",
-      "size": 3944
+      "hash": "501822109674f6a0b8ddbac309a249bb113046e763374599fc1b4b752935310e",
+      "size": 4844
     },
     {
       "path": "data/tb_ItemMelting.tbl",
@@ -277,7 +277,7 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "0493b764c2d624ceacc496e1671a60656890a8c369b0212812ea248b3e19d805",
+      "hash": "cc064973ead77ee65f9cf2a3c188641e8ca0817e00be3627d883029204ec8dad",
       "size": 11664909
     },
     {
@@ -362,8 +362,8 @@
     },
     {
       "path": "data/tb_NPC_Menu.tbl",
-      "hash": "09eceaa270d8d5a4bd3a1e7f74a38f71fa4a66aab1a0fbf28b004bb53dc1f154",
-      "size": 76751
+      "hash": "4f0897f62e209d6a8d9a71cddaa676343b14ceb609bc102d42fb1effd26437e0",
+      "size": 76753
     },
     {
       "path": "data/tb_NPC_Script.tbl",
