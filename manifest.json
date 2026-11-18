@@ -2,7 +2,7 @@
   "files": [
     {
       "path": "Hero.exe",
-      "hash": "93b6edaaa79314e6eba45a4bdb759f2ed094a75337475c099444a2e3fe8fdf7d",
+      "hash": "9c3ca65c57b24bf8d7309a149d26e7f74d7e1819062881188ebbae89bea73bbd",
       "size": 5533184
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "path": "data/tb_cashshop.tbl",
-      "hash": "e03f06801716cf05f6e6d2e9dfa9eff6703481b2de0eb59104c701679cb1b6e3",
+      "hash": "74b23eef61e64aec77e47b3259b7f0e87b4319de3e060351a7600c329351405a",
       "size": 34718
     },
     {
@@ -122,7 +122,7 @@
     },
     {
       "path": "data/tb_DropItem.tbl",
-      "hash": "27ce0173f96bc849eee46eb46223ace34bb373d74b40a1d66cea5fec738e1173",
+      "hash": "1da153612462f5d0325cd33a51f2b6f521f9750c189b653e53d4c62ad15e3ee3",
       "size": 436528
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "cc064973ead77ee65f9cf2a3c188641e8ca0817e00be3627d883029204ec8dad",
-      "size": 11664909
+      "hash": "896b506565c6fab224f42c4144cde55d6bcf4efbbd5eb6597f1aae1c32fcc562",
+      "size": 11664904
     },
     {
       "path": "data/tb_ItemTable_Normal_bckp.tbl",
@@ -337,8 +337,8 @@
     },
     {
       "path": "data/tb_NewMunpaData.tbl",
-      "hash": "8a027fc5ef7c901e75471ddf59a3716d47020d842b13c5be14760efdff3596dd",
-      "size": 358706
+      "hash": "a92cfc90a6cce6093f5746ea866e211c6cd6d9e99ba594eb39f024272044996e",
+      "size": 360318
     },
     {
       "path": "data/tb_notice.tbl",
@@ -352,7 +352,7 @@
     },
     {
       "path": "data/tb_NPCTable.tbl",
-      "hash": "923625f2dc787eaf0d8b09323e9a0a592eafc5fb2167c48334583d15359a5381",
+      "hash": "03e61427349c33d5dd5466be93714cafd7b4cb331de86a4e0bd1c17c9da3e243",
       "size": 1558442
     },
     {
@@ -362,8 +362,8 @@
     },
     {
       "path": "data/tb_NPC_Menu.tbl",
-      "hash": "4f0897f62e209d6a8d9a71cddaa676343b14ceb609bc102d42fb1effd26437e0",
-      "size": 76753
+      "hash": "fdb5e0c82cb47c1606317a0bf273a91110339cca999d0f76841b73ef726c4523",
+      "size": 76766
     },
     {
       "path": "data/tb_NPC_Script.tbl",
@@ -482,7 +482,7 @@
     },
     {
       "path": "data/tb_SkillTable.tbl",
-      "hash": "1adf343dffc6c29cd4a7d318473e340ed93fb880f2fae11b6bdd7e11a367a86a",
+      "hash": "88a9a5b3f8b94f74a483ee77d0daf9f0d0008049cd05ce1479638cb408fe1799",
       "size": 802557
     },
     {
@@ -562,13 +562,18 @@
     },
     {
       "path": "data/tb_ZoneTable.tbl",
-      "hash": "728ae2cc2cab1595f45f856e25d2e7d625b84c1eca81baccf4162ae9b2450354",
-      "size": 80975
+      "hash": "aac3f51659ebcdc6c56b8f2551bed0f8a2daa4580ed0a6124e0a6f5980d81a63",
+      "size": 80962
     },
     {
       "path": "icon/classicbig.dxt",
       "hash": "6ede52ac47f0b4e551dac32167f49db3603fab875c3b23cad16b75110bbfc7ee",
       "size": 1398104
+    },
+    {
+      "path": "icon/premiumitem_small_05.TGA",
+      "hash": "bfba2ee24f5ef3a45ee069917171daaa1147e67525c339570bc62dce7604e0cf",
+      "size": 1048620
     },
     {
       "path": "icon/Usa_SmallIcon.DXT",
@@ -594,6 +599,11 @@
       "path": "ui/ui_calculation.uif",
       "hash": "122bc14b699e6950532cbd548ff39bd5848ac2a707e61ac906031447ae2457ae",
       "size": 9004
+    },
+    {
+      "path": "ui/ui_herocash.uif",
+      "hash": "a1c3004ddf23eb48edfe7b92d93cd852c6cd31ac9ba7d6eb34396d62e777e2c6",
+      "size": 35871
     },
     {
       "path": "ui/ui_infomain_left.uif",
