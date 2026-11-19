@@ -142,8 +142,8 @@
     },
     {
       "path": "data/tb_EventTable.tbl",
-      "hash": "a6856bfaae2f6654a6e3b3d9823b7f714d3d4c233cf7b61e608ade3fede442ef",
-      "size": 631
+      "hash": "495711c950c187cf3b54ed940fda6fee56ee1844363ecb79c045b545ec2583af",
+      "size": 639
     },
     {
       "path": "data/tb_ExpTable.tbl",
@@ -624,6 +624,11 @@
       "path": "ui/DXT/loginbg.DXT",
       "hash": "fd9b30e1a89e9d035290550f90528e92c4efa8dd8fe235e56cad7321de787888",
       "size": 6424656
+    },
+    {
+      "path": "ui/DXT/UI_body_9.TGA",
+      "hash": "19f162f5e3bcc391dd7cc6e657b62c1a950588ae5d94b8f0e685299e79b7a670",
+      "size": 1048620
     },
     {
       "path": "ui/DXT/ui_botton_1.tga",
