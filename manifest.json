@@ -122,7 +122,7 @@
     },
     {
       "path": "data/tb_DropItem.tbl",
-      "hash": "2a16e545ac162f9551ebd7dfc60801192eaf242a39d965a19d4884e52431cdc5",
+      "hash": "2e45fbbb1cee29c42bd2f4a2997efe53b8199dfcfc57b180ed840d07b22f7b30",
       "size": 436528
     },
     {
@@ -267,7 +267,7 @@
     },
     {
       "path": "data/tb_ItemSet.tbl",
-      "hash": "5f26ab76b27fcacfd7eb379eef0c7bbdc4914ad7fee4cd1ae71ba3f6372d100f",
+      "hash": "3480f0238f548f2d6827ffb30e32af7976c32d4aef541f0b01fa931263bf4d87",
       "size": 40262
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "path": "data/tb_ItemTable_Normal.tbl",
-      "hash": "896b506565c6fab224f42c4144cde55d6bcf4efbbd5eb6597f1aae1c32fcc562",
-      "size": 11664904
+      "hash": "33d7862f817364573ce7f168f272a7862b6deaa4809ce50040f2d612ffd76d7a",
+      "size": 11664816
     },
     {
       "path": "data/tb_ItemTable_Normal_bckp.tbl",
@@ -502,8 +502,8 @@
     },
     {
       "path": "data/tb_StringTable.tbl",
-      "hash": "08a2e5bde60cf69e2d3ecbd26cd26624934af249a45853dd248126bd365dd554",
-      "size": 37581
+      "hash": "664e5f0746ea65c11aa5a83d5c3c17a46e884c388aace2d1d1dcab2e58bc32e9",
+      "size": 37577
     },
     {
       "path": "data/tb_Systempostable.tbl",
@@ -527,8 +527,8 @@
     },
     {
       "path": "data/tb_UIString.tbl",
-      "hash": "0c1b28bcfb5d986cb3fb2701d26502d2a16d8ce51e2e4575bbcf3c7e2b541b3d",
-      "size": 162351
+      "hash": "3c4225448435f125ce834d29c8f7d1a010602c7e57c408339a12f4e7de27e675",
+      "size": 162281
     },
     {
       "path": "data/tb_UkungExpPlus.tbl",
@@ -569,6 +569,11 @@
       "path": "icon/classicbig.dxt",
       "hash": "6ede52ac47f0b4e551dac32167f49db3603fab875c3b23cad16b75110bbfc7ee",
       "size": 1398104
+    },
+    {
+      "path": "icon/event_open1.dxt",
+      "hash": "f80308ba47ed73e1d29c434b4955f1d6aa8b9b82109bf6b3dc5fdff521b95952",
+      "size": 393326
     },
     {
       "path": "icon/premiumitem_small_05.TGA",
@@ -619,6 +624,11 @@
       "path": "ui/ui_minimap.uif",
       "hash": "88833883c82b7f79e6184c5eaaffa878a6201994e2c7f7bd313f43eba65a2d0b",
       "size": 875
+    },
+    {
+      "path": "ui/DXT/event_open1.dxt",
+      "hash": "f80308ba47ed73e1d29c434b4955f1d6aa8b9b82109bf6b3dc5fdff521b95952",
+      "size": 393326
     },
     {
       "path": "ui/DXT/loginbg.DXT",
