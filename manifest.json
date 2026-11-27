@@ -467,13 +467,13 @@
     },
     {
       "path": "data/tb_ShopTable.tbl",
-      "hash": "c8410c1b7e4be6872a7da8ca20bd83d240812e16fefdd60b12b53989c7674b68",
-      "size": 8496
+      "hash": "fc78ea5534c9685ff03f3309b0ddfb50cae08c9480e8c39d87929f7c00f7a585",
+      "size": 8752
     },
     {
       "path": "data/tb_ShopTable_Item.tbl",
-      "hash": "48ccef3585cc648bda9a9f9de716da842bef3c62db15cff5129f11b33e1f0499",
-      "size": 2729
+      "hash": "31fe7616d69ce8277823bfd7025622baafa07ce5d42e796009f3e9c84e8228d9",
+      "size": 2731
     },
     {
       "path": "data/tb_Shop_Table_Pet.tbl",
